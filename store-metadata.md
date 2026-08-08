@@ -196,3 +196,94 @@ No sign-up required. The app collects no data about you and sends nothing to any
 
 Available in Turkish and English.
 ```
+
+---
+
+# Mihver — Günlük Düzen
+
+| | |
+|---|---|
+| App Store ID | 6799484319 |
+| Bundle ID | com.rehber.app |
+| SKU | mihver-ios-1 |
+| Proje | `Rehber/` (hedef adı `Mihver`) |
+| Birincil dil | Türkçe |
+| Gizlilik URL | https://regaipsefacotur.github.io/apps-privacy/mihver/ |
+| Destek URL | https://regaipsefacotur.github.io/apps-privacy/destek/ |
+| Kategori | Sağlık & Fitness (birincil) · Yaşam Tarzı (ikincil) |
+| Fiyat | Ücretsiz |
+
+**Ad (30)**
+`Mihver — Günlük Düzen`
+
+**Alt başlık (30)**
+`İhtiyacın olan tek uygulama`
+
+**Anahtar kelimeler (100)**
+`namaz,vakit,ezan,alarm,ilaç,hatırlatma,su,uyku,takip,tansiyon,kilo,bütçe,görev,rutin,teheccüd`
+
+**Tanıtım metni (170)**
+`Namaz vakti, ilaç saati, su, uyku, tansiyon, bütçe, ev işleri… Hepsi ayrı uygulama değil. Sana lazım olan modülleri seç, gerisi tek düzende toplanır.`
+
+**Açıklama**
+```
+Telefonunda namaz için bir uygulama, ilaç hatırlatması için bir başkası, su takibi için üçüncüsü var. Her biri ayrı bildirim gönderiyor, hiçbiri diğerini bilmiyor. Mihver bunların yerine tek bir düzen kuruyor: merkezde sen varsın, modüller senin etrafında çalışır.
+
+NASIL ÇALIŞIR
+1. İlk açılışta birkaç soruya cevap ver
+2. Sana uygun modüller önerilir — istediğini ekle, istemediğini çıkar
+3. En çok kullandığın üçü Bugün ekranında favori olarak durur
+
+NAMAZ
+• Vakitler bulunduğun ilçenin koordinatına göre hesaplanır — ilçeden ilçeye dakikalarca fark eder
+• Kıldığın vakitleri işaretle, kaza namazını takip et
+• Teheccüd penceresi (gecenin son üçte biri) hesaplanır
+• Ezan sesiyle vakit bildirimleri, her vakit için ayrı ayarlanabilir
+• Kıble, imsakiye, zikirmatik, Esmaül Hüsna, dualar, zekat hesabı, dini günler, hatim takibi
+
+ZORUNLU ALARM
+Sabah namazına kalkmak zorsa: sorular çözülmeden susmayan bir alarm. Telefon sessizdeyken de çalar, uygulama kapalıyken sistem alarmı devreye girer. İstersen "yataktan kalk" şartı ekle — sorular bittikten sonra birkaç adım atmadan susmaz. Sorular matematik ya da islami bilgi olabilir; yaşlı kullanıcılar için islami seçenek varsayılan.
+
+SAĞLIK VE TAKİP
+• İlaç listesi, doz saatleri, stok ve rapor süresi takibi
+• Tansiyon, nabız, kan şekeri, kilo
+• Su hedefi — sıcak günlerde hedef kendiliğinden artar
+• Uyku, adım, spor, diyet, nefes egzersizi, meditasyon
+• Ruh hali ve günlük
+
+GÜNLÜK YAŞAM
+• Görevler, hatırlatmalar, doğum günleri, alışveriş listesi
+• Harcama, yatırım, fatura ve abonelik takibi
+• Araç bakımı, ev bakımı, belge süreleri, evcil hayvan, bitki sulama, çocuk takibi
+• Deprem uyarıları
+
+KONUŞARAK YÖNET
+"Bugün 3 bardak su içtim", "öğleyi kıldım", "dünkü uykuyu 8 saat yap" — kayıt eklemek, güncellemek ve silmek için menü aramana gerek yok. Asistan tamamen cihazında çalışır.
+
+BİLDİRİMLER SESSİZ KALSIN
+Otuz modül açıkken günde elli bildirim gelmesin diye günlük bir üst sınır var ve varsayılan en düşük ayarda. Hangi modülden ne sıklıkta haber almak istediğine sen karar verirsin. Gece için sessiz saat tanımlanabilir; ilaç dozu ve namaz vakti bu kuralın dışındadır.
+
+VERİLERİN SENDE KALIR
+Hesap açmak gerekmez. Kayıtların telefonunda durur, bir sunucuya gönderilmez. İstersen günde bir kez KENDİ iCloud hesabına yedek alınır — o yedeğe biz erişemeyiz. Takip için internet gerekmez; yalnızca hava durumu, deprem, döviz ve borsa bilgisi ağdan gelir.
+
+Mihver tıbbi teşhis koymaz, tedavi önermez. Sağlık kararların için doktoruna danış.
+```
+
+**İnceleme notu (App Review)**
+```
+Uygulama hesap gerektirmiyor, giriş bilgisi yok.
+
+"Zorunlu Alarm" modülü, sorular çözülmeden susmayan bir alarm kuruyor. Test için:
+Modüller > Zorunlu Alarm > Yeni Alarm > Tek Seferlik > birkaç dakika sonrası.
+Alarm çaldığında soru ekranı açılır; sorular çözülünce alarm susar. Alarm sesi
+uygulamanın kendi arka plan motorundan gelir (UIBackgroundModes: audio), bu yüzden
+telefon sessizdeyken de duyulur.
+
+Konum izni namaz vakitlerinin ilçe hassasiyetinde hesaplanması için isteniyor;
+izin verilmezse kullanıcı il/ilçeyi elle seçer ve uygulama çalışmaya devam eder.
+Hareket ve Fitness izni yalnızca adım sayısı için.
+
+Uygulama sağlık verisi tutuyor ama tıbbi tavsiye vermiyor; her ekranda kullanıcının
+kendi girdiği kayıtlar gösteriliyor. Sohbet asistanı tamamen cihaz üzerinde,
+kural tabanlı çalışıyor — sunucuya istek gitmiyor.
+```
