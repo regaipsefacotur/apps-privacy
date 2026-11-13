@@ -287,3 +287,21 @@ Uygulama sağlık verisi tutuyor ama tıbbi tavsiye vermiyor; her ekranda kullan
 kendi girdiği kayıtlar gösteriliyor. Sohbet asistanı tamamen cihaz üzerinde,
 kural tabanlı çalışıyor — sunucuya istek gitmiyor.
 ```
+
+---
+
+## Ayet Ayet — App ID 6834460728
+
+- Bundle: `com.sefacotur.ayetayet` (portal kaydı `JZHG4WLVQH`) · SKU `ayetayet-2026-11` · sürüm 1.0.0
+- Ad: "Ayet Ayet — Meal ve Tefsir" · birincil dil Türkçe · yalnız iPhone
+- Gizlilik URL: https://regaipsefacotur.github.io/apps-privacy/ayet-ayet/
+- Kategori: Başvuru (birincil) · Yaşam Tarzı (ikincil) · ücretsiz · 4+ · Data Not Collected
+- İçerik hakları: USES_THIRD_PARTY_CONTENT — meal ve Kur'an Yolu tefsiri Diyanet'in izniyle (kullanıcı 2026-11-13'te izin alındığını bildirdi)
+
+**Alt başlık (30)** `Her gün Kur'an, meal ve tefsir`
+
+**Anahtar kelimeler** `kuran,kuranıkerim,meal,tefsir,ayet,sure,diyanet,namaz vakti,ezan,hatim,günlük ayet,islam,dua`
+
+**Tanıtım metni** `Her gün bir okuma: Arapça metin, Türkçe meal ve tefsir. Okuyana kadar hatırlatır, Kur'an'ı baştan sona bitirmene yardım eder.`
+
+Açıklama ve App Review notu ASC'de; kaynak: oturum notları.
