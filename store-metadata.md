@@ -305,3 +305,18 @@ kural tabanlı çalışıyor — sunucuya istek gitmiyor.
 **Tanıtım metni** `Her gün bir okuma: Arapça metin, Türkçe meal ve tefsir. Okuyana kadar hatırlatır, Kur'an'ı baştan sona bitirmene yardım eder.`
 
 Açıklama ve App Review notu ASC'de; kaynak: oturum notları.
+
+---
+
+## Risale-i Nur: Lügat ve Ses — App ID 6834775200
+
+- Bundle: `com.sefacotur.risale` (portal `6K3T8BF56B`) · SKU `risale-2026-11` · sürüm 1.0.0 (build 1) · birincil dil Türkçe · yalnız iPhone
+- Gizlilik URL: https://regaipsefacotur.github.io/apps-privacy/risale/ · Destek: .../destek/
+- Kategori: Kitaplar (birincil) · Başvuru (ikincil) · ücretsiz · 4+ · Data Not Collected · 175 bölge (CHN kapalı)
+- İçerik hakları: USES_THIRD_PARTY_CONTENT — metin, lügat ve ses hak sahiplerinin izniyle (kullanıcı 2026-11-14'te izin alındığını bildirdi; belge kullanıcıda)
+
+**Alt başlık** `Kelimeye dokun, anlamı açılsın`
+
+**Anahtar kelimeler** `risale,said nursi,bediüzzaman,lügat,sözler,mektubat,lemalar,şualar,sesli kitap,külliyat`
+
+Açıklama ve inceleme notu: RisaleNur/yayin/metadata.mjs, inceleme_notu.txt. Ekran görüntüleri: Development/store-screenshots/risale/.
