@@ -1,0 +1,118 @@
+# Sefa Çotur — iPhone uygulamaları
+
+> Sefa Çotur'un App Store'daki ücretsiz iOS uygulamaları. Hepsi ücretsizdir; uygulama içi satın alma veya abonelik yoktur. Arayüzlerin çoğu Türkçedir.
+
+## Uygulamalar
+
+- [Nurum: Zikirmatik Kuran Namaz](https://regaipsefacotur.github.io/apps-privacy/uygulamalar/nurum/): Zikir · Namaz Vakti · Kıble. App Store: https://apps.apple.com/tr/app/id6834456163
+- [Risale-i Nur: Lügat ve Ses](https://regaipsefacotur.github.io/apps-privacy/uygulamalar/risale/): Kelimeye dokun, anlamı açılsın. App Store: https://apps.apple.com/tr/app/id6834775200
+- [LinguaFlow: Hikâyeli İngilizce](https://regaipsefacotur.github.io/apps-privacy/uygulamalar/linguaflow/): Dinle, anla, taklit et, konuş. App Store: https://apps.apple.com/tr/app/id6834577667
+- [Ayet Ayet — Meal ve Tefsir](https://regaipsefacotur.github.io/apps-privacy/uygulamalar/ayet-ayet/): Her gün Kur'an, meal ve tefsir. App Store: https://apps.apple.com/tr/app/id6834460728
+- [Mihver — Günlük Düzen](https://regaipsefacotur.github.io/apps-privacy/uygulamalar/mihver/): Namaz, ilaç, su ve uyku takibi. App Store: https://apps.apple.com/tr/app/id6799484319
+- [Şükür — Nimetleri Hatırla](https://regaipsefacotur.github.io/apps-privacy/uygulamalar/sukur/): Her gün şükür ve tefekkür. App Store: https://apps.apple.com/tr/app/id6801420159
+- [Çark — Karar ve Çekiliş](https://regaipsefacotur.github.io/apps-privacy/uygulamalar/cark/): Karar ver, çekiliş yap, sırala. App Store: https://apps.apple.com/tr/app/id6801551533
+- [WalkUp: Yürü, Alarmı Kapat](https://regaipsefacotur.github.io/apps-privacy/uygulamalar/walkup/): Ağır uyuyanlar için çalar saat. App Store: https://apps.apple.com/tr/app/id6799755379
+- [Sakin Nokta: Sessiz Yerler](https://regaipsefacotur.github.io/apps-privacy/uygulamalar/sakin-nokta/): Yakınındaki sakin yerleri bul. App Store: https://apps.apple.com/tr/app/id6798577581
+- [Rota Planlayıcı: Gezi Planı](https://regaipsefacotur.github.io/apps-privacy/uygulamalar/rota-planlayici/): Günlük şehir gezisi planla. App Store: https://apps.apple.com/tr/app/id6798576007
+- [Hereafter: Letters & Legacy](https://regaipsefacotur.github.io/apps-privacy/uygulamalar/hereafter/): Final letters, will & wishes. App Store: https://apps.apple.com/us/app/id6792672214
+- [Tally: Credit Ledger & Debts](https://regaipsefacotur.github.io/apps-privacy/uygulamalar/tally/): Customer tabs for small shops. App Store: https://apps.apple.com/us/app/id6792676906
+- [Dodge Arena: Toplardan Kaç](https://regaipsefacotur.github.io/apps-privacy/uygulamalar/dodge-arena/): Refleks ve hayatta kalma oyunu. App Store: https://apps.apple.com/tr/app/id6785227974
+- [Hocaya Sor: Dini Soru Cevap](https://regaipsefacotur.github.io/apps-privacy/uygulamalar/hocaya-sor/): Fetva, fıkıh ve İslami rehber. App Store: https://apps.apple.com/tr/app/id6785089641
+- [Dijital Detoks: Önce Hak Et](https://regaipsefacotur.github.io/apps-privacy/uygulamalar/detoks/): Uygulama kilidi ve odak. App Store: https://apps.apple.com/tr/app/id6835023402
+
+## Sık sorulan sorular
+
+### Nurum: Zikirmatik Kuran Namaz
+- Ücretli mi? Hayır. Uygulama ücretsizdir; uygulama içi satın alma veya abonelik yoktur.
+- Namaz vakitleri internetsiz çalışır mı? Evet. Diyanet vakitleri 81 il ve yaklaşık 900 ilçe için uygulamanın içinde gelir; internet olmadan da gösterilir.
+- Zikirmatik widget'ı var mı? Evet. Ana ekran ve kilit ekranı widget'ından uygulamayı açmadan zikir çekebilirsin.
+- Hesap açmak gerekiyor mu? Hayır. Hesap, reklam ve takip yoktur; kayıtların yalnızca cihazında tutulur.
+
+### Risale-i Nur: Lügat ve Ses
+- Ücretli mi? Hayır. Uygulama ücretsizdir; uygulama içi satın alma veya abonelik yoktur.
+- Hangi kitaplar var? Sözler, Mektubat, Lem'alar, Şuâlar, Mesnevî-i Nuriye, İşârâtü'l-İ'câz, Asâ-yı Mûsâ, Lâhikalar ve diğer eserlerle birlikte Külliyatın tamamı.
+- Bilmediğim kelimenin anlamını nasıl görürüm? Kelimeye dokunman yeterli; o cümledeki anlamı, kökü ve Osmanlıca yazılışı açılır.
+- Sesli dinleme internetsiz çalışır mı? Bir kitabın sesini indirip internetsiz dinleyebilirsin; ekran kilitliyken de çalmaya devam eder.
+
+### LinguaFlow: Hikâyeli İngilizce
+- Ücretli mi? Hayır. Uygulama ücretsizdir; uygulama içi satın alma veya abonelik yoktur.
+- Hangi seviyeler için uygun? A1, A2, B1 ve B2 seviyelerinde toplam 104 sesli hikâye bölümü vardır.
+- Telaffuzumu nasıl çalışırım? Gölgeleme alıştırmasında cümleyi dinleyip aynı ritimle tekrar edersin; telaffuzun anında puanlanır.
+- Kelime listesi var mı? A1'den C2'ye yaklaşık 9.700 kelime, Türkçe karşılıkları ve örnek cümleleriyle; düzensiz fiiller ayrı listededir.
+
+### Ayet Ayet — Meal ve Tefsir
+- Ücretli mi? Hayır. Uygulama ücretsizdir; uygulama içi satın alma veya abonelik yoktur.
+- Kur'an'ı baştan sona nasıl bitiririm? Her gün sana ayrılan okumayı meal ve tefsiriyle okursun; sırayla ilerlediğin için hiçbir ayet atlanmaz.
+- Okumayı unutursam ne olur? Seçtiğin saatte bildirim gelir; o günün okumasını bitirmediysen hatırlatma tekrarlanır.
+- Namaz vakitleri de var mı? Evet, bulunduğun il ve ilçeye göre Diyanet namaz vakitleri gösterilir.
+
+### Mihver — Günlük Düzen
+- Ücretli mi? Hayır. Uygulama ücretsizdir; uygulama içi satın alma veya abonelik yoktur.
+- Mihver hangi uygulamaların yerini alır? Namaz vakitleri, ilaç hatırlatma, su ve uyku takibi gibi ayrı ayrı kullandığın uygulamaları tek bir günlük düzende birleştirir.
+- Sabah namazına kalkmama yardım eder mi? Evet. Zorunlu alarm, soruları çözmeden susmaz.
+- Namaz vakitleri nasıl hesaplanıyor? Bulunduğun ilçenin koordinatına göre; ilçeden ilçeye değişen dakikalar dikkate alınır.
+
+### Şükür — Nimetleri Hatırla
+- Ücretli mi? Hayır. Uygulama ücretsizdir; uygulama içi satın alma veya abonelik yoktur.
+- Şükür ne yapar? Gün içinde seçtiğin saatlerde kısa bildirimlerle fark etmediğin nimetleri hatırlatır.
+- Kaç bildirim gelir? Günde 1 ile 8 arasında, istediğin saatlerde.
+- İnternet gerekiyor mu? Hayır. 1875 metnin tamamı uygulamanın içindedir.
+
+### Çark — Karar ve Çekiliş
+- Ücretli mi? Hayır. Uygulama ücretsizdir; uygulama içi satın alma veya abonelik yoktur.
+- Çekiliş nasıl çalışır? Katılımcıları girip çarkı çevirirsin; her çevirişte çıkan kişi listeden düşer, sonunda tam sıralama oluşur.
+- Hazır şablon var mı? Evet: Ne Yesek?, Ne İzlesek?, Nereye Gitsek?, Kimin Sırası? gibi 7 hazır şablon vardır.
+- Kendi çarkımı kurabilir miyim? Evet; isim, ikon ve istediğin kadar seçenekle.
+
+### WalkUp: Yürü, Alarmı Kapat
+- Ücretli mi? Hayır. Uygulama ücretsizdir; uygulama içi satın alma veya abonelik yoktur.
+- Alarm sessiz modda çalar mı? Evet. WalkUp sessiz modu ve Rahatsız Etmeyin'i aşar; uygulama kapalıyken de çalar.
+- Alarmı nasıl kapatırım? Birkaç basit soruyu cevaplarsın; istersen ardından 10–30 adım yürümen gerekir.
+- Erteleme düğmesi var mı? Hayır. Sistem alarmını durdurmak yalnızca erteler; görevi bitirene kadar alarm geri gelir.
+
+### Sakin Nokta: Sessiz Yerler
+- Ücretli mi? Hayır. Uygulama ücretsizdir; uygulama içi satın alma veya abonelik yoktur.
+- Sakinlik skoru nedir? Her mekanın ne kadar sakin olduğunu gösteren puandır; günün hangi saatinde daha tenha olduğu da grafikte görünür.
+- Hangi şehirlerde çalışır? Türkiye ve Avrupa'dan 1.800'den fazla mekan hazırdır; OpenStreetMap aramasıyla istediğin bölgeye genişletebilirsin.
+- Kendi yerimi ekleyebilir miyim? Evet, keşfettiğin sakin yeri not ekleyerek kendi listene kaydedebilirsin.
+
+### Rota Planlayıcı: Gezi Planı
+- Ücretli mi? Hayır. Uygulama ücretsizdir; uygulama içi satın alma veya abonelik yoktur.
+- Hangi ülkeler var? 35 ülke ve 203 şehir için hazır mekan kataloğu bulunur.
+- Rota nasıl oluşuyor? Seçtiğin yerler konumlarına, gezme sürelerine ve önceliklerine göre günlere otomatik dağıtılır.
+- Google Maps ile kullanabilir miyim? Evet, günlük rotanı tek dokunuşla Google Maps'te açabilirsin.
+
+### Hereafter: Letters & Legacy
+- Is it free? Yes. The app is free, with no in-app purchases or subscriptions.
+- Is my data uploaded anywhere? No. Nothing leaves your phone: no servers, no accounts and no internet required.
+- What can I leave behind? Letters to each person, voice and video messages, your wishes, debts and vital information, all collected into a Legacy File PDF.
+- Can I lock the app? Yes, with Face ID or your fingerprint.
+
+### Tally: Credit Ledger & Debts
+- Is it free? Yes. The app is free, with no in-app purchases or subscriptions.
+- Who is Tally for? Small merchants such as grocers, bakers, butchers and corner shops who keep a customer credit ledger.
+- Can I remind customers to pay? Yes. Send a WhatsApp reminder with their balance in one tap.
+- Where is my data stored? Only on your device. No internet, account or cloud is needed; you can back up and restore with a JSON file.
+
+### Dodge Arena: Toplardan Kaç
+- Ücretli mi? Hayır. Uygulama ücretsizdir; uygulama içi satın alma veya abonelik yoktur.
+- İnternetsiz oynanır mı? Evet, oyun tamamen internetsizdir ve reklam içermez.
+- Kaç seviye var? Her seviyede toplar hızlanır ve arena küçülür; hedef 10. seviyeye ulaşmak.
+- Selfie modu nedir? Oyunu kendi yüzünle oynamanı sağlayan bir mod.
+
+### Hocaya Sor: Dini Soru Cevap
+- Ücretli mi? Hayır. Uygulama ücretsizdir; uygulama içi satın alma veya abonelik yoktur.
+- Sorularımı kim cevaplıyor? Uzman hocalar sorunu inceler ve ayrıntılı bir cevap yazar; cevap hazır olduğunda bildirim alırsın.
+- Hangi konularda soru sorabilirim? Fıkıh ve ibadet, Kur'an ve tefsir, hadis ve sünnet, akaid, helal ve haram, aile ve nikâh, güncel dini meseleler.
+- Abonelik var mı? Hayır, tamamen ücretsizdir.
+
+### Dijital Detoks: Önce Hak Et
+- Ücretli mi? Hayır. Uygulama ücretsizdir; uygulama içi satın alma veya abonelik yoktur.
+- Uygulamaları nasıl kilitliyor? Kilitleri Apple'ın Ekran Süresi altyapısı koyar; Dijital Detoks hangi uygulamaları kullandığını göremez.
+- Kilit nasıl açılır? Belirlediğin koşulu yerine getirince: örneğin 20 dk Duolingo, 3.000 adım ya da 25 dk telefonsuz odak.
+- Hesap veya sunucu var mı? Hayır. Hesap, reklam ve sunucu yoktur; tüm veriler cihazında kalır.
+
+## Diğer
+
+- [Destek ve iletişim](https://regaipsefacotur.github.io/apps-privacy/destek/)
+- [Gizlilik politikaları](https://regaipsefacotur.github.io/apps-privacy/)

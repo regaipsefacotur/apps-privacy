@@ -1,0 +1,300 @@
+{
+ "6834456163": {
+  "slug": "nurum",
+  "project": "Tezhip",
+  "locales": {
+   "tr": {
+    "name": "Nurum: Zikirmatik Kuran Namaz",
+    "subtitle": "Zikir · Namaz Vakti · Kıble",
+    "keywords": "ezan,meal,tesbih,dua,esmaül hüsna,hatim,widget,hadis,cüz,imsakiye,sure,ayet,salavat,vird,yasin"
+   },
+   "en-GB": {
+    "newLocale": true,
+    "name": "Nurum: Zikirmatik Kuran Namaz",
+    "subtitle": "Ezan, Dua, Tesbih ve Hatim",
+    "keywords": "imsak,iftar,sahur,diyanet,mushaf,hafız,ezber,esma,kaza,pusula,teravih,mukabele,islam,müslüman,oruç",
+    "description": "Nurum is a simple, free daily spiritual routine app for dhikr, prayer and the Qur'an. No ads, no subscription, no account, no tracking.\n\nDHIKR COUNTER\n• Tap anywhere on the screen to count, with haptics and an optional click\n• 200 supplications with Arabic text, transliteration and meaning\n• Prayer tasbih, your own sets and the 99 Names of Allah\n• Count from the home screen and lock screen widgets\n\nPRAYER\n• Diyanet prayer times for all 81 provinces of Türkiye, offline\n• Prayer notifications, prayer tracking, missed prayers, qibla compass\n\nTHE QUR'AN\n• Arabic text, transliteration and selectable translations\n• Mushaf page layout, juz list, memorisation mode\n• Search, recitation audio, bookmarks, notes and highlights\n• Hatim progress and shared hatim with family and friends\n\nNote: the app interface is in Turkish."
+   }
+  }
+ },
+ "6834775200": {
+  "slug": "risale",
+  "project": "RisaleNur",
+  "locales": {
+   "tr": {
+    "name": "Risale-i Nur: Lügat ve Ses",
+    "subtitle": "Kelimeye dokun, anlamı açılsın",
+    "keywords": "said nursi,bediüzzaman,sözler,mektubat,lemalar,şualar,sesli kitap,külliyat,osmanlıca,sözlük,mesnevi"
+   },
+   "en-GB": {
+    "newLocale": true,
+    "name": "Risale-i Nur: Lügat ve Ses",
+    "subtitle": "Sesli Risale, Osmanlıca Lügat",
+    "keywords": "nursi,said,külliyatı,lahika,asayı musa,tarihçe,muhakemat,işarat,icaz,dinle,oku,tefekkür,iman,ders",
+    "description": "Read the Risale-i Nur collection by Bediüzzaman Said Nursi together with an in-context glossary and audio reading.\n\nTAP A WORD, SEE ITS MEANING\nTap any word you don't know to see its meaning in that sentence, its root and its Ottoman spelling. A general Ottoman–Turkish dictionary is included as well.\n\nLISTEN WORD BY WORD\nEvery section can be listened to while the current word is highlighted and the text follows along. Adjust the speed, keep listening with the screen locked, or download a book's audio to listen offline.\n\nTHE COMPLETE COLLECTION\nSözler, Mektubat, Lem'alar, Şuâlar, Mesnevî-i Nuriye, İşârâtü'l-İ'câz, Asâ-yı Mûsâ, Lâhikalar and more, with footnotes, translations of verses and hadiths and the printed edition's page numbers.\n\nNote: the app interface is in Turkish."
+   }
+  }
+ },
+ "6834577667": {
+  "slug": "linguaflow",
+  "project": "LinguaFlow",
+  "locales": {
+   "tr": {
+    "name": "LinguaFlow: Hikâyeli İngilizce",
+    "subtitle": "Dinle, anla, taklit et, konuş",
+    "keywords": "öğren,kelime,a1,a2,b1,b2,dinleme,telaffuz,gramer,sözlük,fiil,cefr,ders,kurs,yds,ielts,toefl,cümle"
+   },
+   "en-GB": {
+    "newLocale": true,
+    "name": "LinguaFlow: Hikâyeli İngilizce",
+    "subtitle": "Türkler için sesli İngilizce",
+    "keywords": "öğren,yabancı dil,shadowing,gölgeleme,dikte,düzensiz,pratik,seviye,hikaye,podcast,kitap",
+    "description": "LinguaFlow teaches English to Turkish speakers the way children learn: listen and understand first, then imitate, and finally build your own sentences.\n\nLEARN THROUGH A STORY\n• 104 audio episodes across levels A1, A2, B1 and B2\n• Level checks at the end of each season\n• Natural-speed, professional narration\n\nLISTEN, IMITATE, SPEAK\n• Shadowing with instant pronunciation scoring\n• Dictation and sentence-building exercises\n• Role play and free conversation with the story's characters\n\nWORDS\n• About 9,700 words from A1 to C2 with Turkish meanings and example sentences\n• Irregular verbs (V1 · V2 · V3) in their own list\n\nNote: the app interface is in Turkish."
+   }
+  }
+ },
+ "6834460728": {
+  "slug": "ayet-ayet",
+  "project": "GunlukAyet",
+  "locales": {
+   "tr": {
+    "name": "Ayet Ayet — Meal ve Tefsir",
+    "subtitle": "Her gün Kur'an, meal ve tefsir",
+    "keywords": "kuranıkerim,sure,diyanet,namaz vakti,ezan,hatim,günlük,islam,dua,mushaf,okuma,widget,hatırlatma"
+   },
+   "en-GB": {
+    "newLocale": true,
+    "name": "Ayet Ayet — Meal ve Tefsir",
+    "subtitle": "Günlük ayet ve Kur'an hatmi",
+    "keywords": "kuran oku,meali,türkçe,açıklamalı,cüz,imsakiye,tefekkür,müslüman,vakit,bildirim,seri,takip",
+    "description": "Ayet Ayet helps you read the whole Qur'an, a little every day, together with its Turkish translation and commentary.\n\nA DAILY READING\nEach day you read your portion with the Arabic text, the Turkish translation and the commentary. You move forward in order, so no verse is skipped.\n\nREMINDS YOU UNTIL YOU READ\nA notification arrives at the time you choose, and repeats if you haven't finished that day's reading.\n\nVERSE FEED, FREE READING AND HIGHLIGHTS\nShort daily verses in a separate feed, open any surah freely, highlight the verses that move you and track your progress and streak.\n\nPRAYER TIMES\nDiyanet prayer times for your province and district.\n\nNote: the app interface is in Turkish."
+   }
+  }
+ },
+ "6799484319": {
+  "slug": "mihver",
+  "project": "Rehber",
+  "locales": {
+   "tr": {
+    "name": "Mihver — Günlük Düzen",
+    "subtitle": "Namaz, ilaç, su ve uyku takibi",
+    "keywords": "vakit,ezan,alarm,hatırlatma,tansiyon,kilo,bütçe,görev,rutin,teheccüd,kıble,imsakiye,zikirmatik,kaza"
+   },
+   "en-GB": {
+    "newLocale": true,
+    "name": "Mihver — Günlük Düzen",
+    "subtitle": "Zorunlu alarm ve günlük rutin",
+    "keywords": "sabah namazı,uyandırma,hap,su içme,adım,şeker,ajanda,planlayıcı,alışkanlık,esma,zekat,dua,widget",
+    "description": "Mihver replaces a handful of separate apps with one daily routine: prayer times, medication reminders, water and sleep tracking, and more, all working around you.\n\nHOW IT WORKS\n1. Answer a few questions on first launch\n2. Get suggested modules; add or remove what you like\n3. Your three favourites stay on the Today screen\n\nPRAYER\n• Times calculated for your district's coordinates\n• Track prayers and missed prayers, tahajjud window, adhan notifications\n• Qibla, imsakiye, dhikr counter, the 99 Names, zakat calculator\n\nFORCED ALARM\nAn alarm that won't stop until you answer the questions — for waking up for the dawn prayer.\n\nHEALTH AND DAILY LIFE\nMedication, water, sleep, blood pressure, weight, budget and tasks.\n\nNote: the app interface is in Turkish."
+   }
+  }
+ },
+ "6801420159": {
+  "slug": "sukur",
+  "project": "Sukur",
+  "locales": {
+   "tr": {
+    "name": "Şükür — Nimetleri Hatırla",
+    "subtitle": "Her gün şükür ve tefekkür",
+    "keywords": "nimet,hatırlatma,bildirim,islam,dua,zikir,günlük,motivasyon,minnet,farkındalık,huzur,elhamdülillah",
+    "description": "Şükür, Allah'ın sana her an verdiği ama farkına bile varmadığın nimetleri hatırlatan bir uygulamadır.\n\nGün içinde belirlediğin saatlerde kısa, vurucu bildirimler alırsın. Her bildirim seni bir an durdurup düşündürür: nefes almak, kalbinin atması, sevdiklerin, gördüklerin…\n\n1875 özgün metin, 8 kategori:\n• Beden: kalbin, nefesin, gözlerin\n• Duyular: görme, duyma, tatma\n• Doğa: su, toprak, güneş\n• Gökyüzü: yıldızlar, ay, bulutlar\n• Rızık: sofrandaki nimetler\n• Sevdikler: aile, dostluk, bağ\n• Zaman: anlar, mevsimler, ömür\n• Gizli nimetler: farkında olmadıkların\n\n• Günde 1–8 bildirim, istediğin saatte\n• Kategoriye göre seçim\n• İnternet gerekmez\n• Tamamen ücretsiz, reklamsız\n\nBir an dur. Düşün. Şükret."
+   },
+   "en-GB": {
+    "newLocale": true,
+    "name": "Şükür — Nimetleri Hatırla",
+    "subtitle": "Şükret, tefekkür et, fark et",
+    "keywords": "sukur,şükretmek,hamd,nimetler,günlüğü,teşekkür,tefekkur,iman,müslüman,manevi,bildirimli",
+    "description": "Şükür reminds you of the countless blessings you receive every moment but rarely notice.\n\nAt the times you choose, you receive short, striking notifications that make you pause and reflect: breathing, your heartbeat, the people you love, the things you see…\n\n• 1,875 original texts in 8 categories\n• 1–8 notifications a day, at the hours you pick\n• Works offline\n• Completely free, no ads\n\nNote: the app interface is in Turkish."
+   }
+  }
+ },
+ "6801551533": {
+  "slug": "cark",
+  "project": "cark",
+  "locales": {
+   "tr": {
+    "name": "Çark — Karar ve Çekiliş",
+    "subtitle": "Karar ver, çekiliş yap, sırala",
+    "keywords": "kura,rastgele,seçim,sıralama,isim,çevir,oyun,grup,ne yesek,şans,kim,piyango,talih,zar,eşleştirme"
+   },
+   "en-GB": {
+    "newLocale": true,
+    "name": "Çark — Karar ve Çekiliş",
+    "subtitle": "Şans çarkı ve isim çekme",
+    "keywords": "çarkıfelek,çevir,kura çek,seç,rastgele seçici,instagram çekilişi,parti,arkadaş",
+    "description": "Making a decision is sometimes the hardest part. Çark makes it for you, fairly.\n\nDECISION WHEEL\nWrite your options, spin the wheel and go with the result. Start instantly with 7 ready-made templates, or build your own wheel with any number of options.\n\nDRAWS AND RAFFLES\nEnter the participants and spin. Each spin picks one person and removes them from the list, until everyone is drawn and you get the full ranking. Share the result in one tap.\n\nNote: the app interface is in Turkish."
+   }
+  }
+ },
+ "6799755379": {
+  "slug": "walkup",
+  "project": "WalkUp",
+  "locales": {
+   "en-US": {
+    "name": "WalkUp: Walk to Stop Alarm",
+    "subtitle": "Alarm clock for heavy sleepers",
+    "keywords": "wake,steps,snooze,math,puzzle,morning,loud,up,sleeper,get,early,rise,ringtone,siren"
+   },
+   "tr": {
+    "name": "WalkUp: Yürü, Alarmı Kapat",
+    "subtitle": "Ağır uyuyanlar için çalar saat",
+    "keywords": "uyanmak,yürüme,adım,erteleme,matematik,soru,sabah,yüksek ses,uyandırma,kalk,erken,namaz,zorla"
+   },
+   "de-DE": {
+    "name": "WalkUp: Wecker mit Schritten",
+    "subtitle": "Wecker für Tiefschläfer",
+    "keywords": "alarm,aufwachen,gehen,schlummern,mathe,fragen,morgen,laut,aufstehen,früh,klingelton,sirene"
+   },
+   "fr-FR": {
+    "name": "WalkUp : Réveil à pas",
+    "subtitle": "Réveil pour gros dormeurs",
+    "keywords": "alarme,se réveiller,marcher,répéter,maths,questions,matin,fort,lever,tôt,sonnerie,sirène"
+   },
+   "es-ES": {
+    "name": "WalkUp: Despertador a pasos",
+    "subtitle": "Alarma para sueño pesado",
+    "keywords": "despertar,caminar,posponer,matemáticas,preguntas,mañana,fuerte,levantarse,temprano"
+   },
+   "pt-BR": {
+    "name": "WalkUp: Despertador de Passos",
+    "subtitle": "Alarme para sono pesado",
+    "keywords": "acordar,caminhar,soneca,matemática,perguntas,manhã,alto,levantar,cedo,toque"
+   },
+   "ru": {
+    "name": "WalkUp: Будильник с шагами",
+    "subtitle": "Будильник для крепкого сна",
+    "keywords": "проснуться,ходьба,шаги,отложить,математика,вопросы,утро,громкий,подъем,рано,сирена"
+   },
+   "id": {
+    "name": "WalkUp: Alarm Jalan Kaki",
+    "subtitle": "Alarm untuk yang tidur nyenyak",
+    "keywords": "jam weker,bangun,berjalan,langkah,tunda,matematika,soal,pagi,keras,hari,sirene,subuh"
+   },
+   "ar-SA": {
+    "name": "WalkUp: منبه المشي",
+    "subtitle": "منبه لمن نومهم ثقيل",
+    "keywords": "استيقاظ,مشي,خطوات,غفوة,رياضيات,أسئلة,صباح,صوت عال,فجر,قوي,ساعة"
+   }
+  }
+ },
+ "6798577581": {
+  "slug": "sakin-nokta",
+  "project": "SakinNokta",
+  "locales": {
+   "tr": {
+    "name": "Sakin Nokta: Sessiz Yerler",
+    "subtitle": "Yakınındaki sakin yerleri bul",
+    "keywords": "huzur,park,kütüphane,çalışma,kafe,meditasyon,doğa,kaçamak,keşfet,mola,dinlen,tenha,bahçe,müze,harita"
+   },
+   "en-GB": {
+    "newLocale": true,
+    "name": "Sakin Nokta: Sessiz Yerler",
+    "subtitle": "Ders çalışacak sessiz mekan",
+    "keywords": "kafe,botanik,sahil,kitapçı,yürüyüş,rota,sakinlik,kalabalık,istanbul,ankara,izmir",
+    "description": "The city is loud. Sakin Nokta helps you find places where you can breathe.\n\nChoose what you need — a quiet corner to work, a peaceful garden to rest, or a calm path to walk — and see nearby places ranked by calmness.\n\n• Calmness score and the quietest hours for every place\n• Over 1,800 parks, libraries, botanical gardens, seafronts, bookshops and museums in Türkiye and Europe\n• Live search via OpenStreetMap to expand to any area\n• Save your own quiet spots with notes\n\nNote: the app interface is in Turkish."
+   }
+  }
+ },
+ "6798576007": {
+  "slug": "rota-planlayici",
+  "project": "gezi-planlama",
+  "locales": {
+   "tr": {
+    "name": "Rota Planlayıcı: Gezi Planı",
+    "subtitle": "Günlük şehir gezisi planla",
+    "keywords": "seyahat,tatil,tur,gezilecek yerler,harita,güzergah,program,rehber,avrupa,itinerary,yurtdışı"
+   },
+   "en-GB": {
+    "newLocale": true,
+    "name": "Rota Planlayıcı: Gezi Planı",
+    "subtitle": "Gezilecek yerler ve gün planı",
+    "keywords": "seyahat,tatil,roma,paris,londra,amsterdam,tokyo,istanbul,google maps,müze,yürüyüş,gezgin",
+    "description": "Planning which place to visit on which day can take hours. Rota Planlayıcı brings it down to a few minutes.\n\n1. Choose a country and city\n2. Enter where you're staying and for how many days\n3. Swipe through the sights: right to keep, left to skip\n4. Your daily route is built automatically\n\n• Smart distribution by location, visit time and priority\n• Pace and transport options\n• 35 countries, 203 cities\n• Open each day's route in Google Maps with one tap\n\nNote: the app interface is in Turkish."
+   }
+  }
+ },
+ "6792672214": {
+  "slug": "hereafter",
+  "project": "~/Ardimdan",
+  "locales": {
+   "en-US": {
+    "name": "Hereafter: Letters & Legacy",
+    "subtitle": "Final letters, will & wishes",
+    "keywords": "farewell,message,memorial,family,goodbye,voice,estate,bucket list,trust,death,planner,journal,vault"
+   }
+  }
+ },
+ "6792676906": {
+  "slug": "tally",
+  "project": "~/VeresiyeDefteri",
+  "locales": {
+   "en-US": {
+    "name": "Tally: Credit Ledger & Debts",
+    "subtitle": "Customer tabs for small shops",
+    "keywords": "debt,tab,owe,merchant,grocery,bakery,balance,tracker,receivable,veresiye,bookkeeping,iou,loan"
+   },
+   "tr": {
+    "newLocale": true,
+    "name": "Tally: Veresiye Defteri",
+    "subtitle": "Esnaf için borç alacak takibi",
+    "keywords": "defter,bakkal,market,kasap,fırın,müşteri,tahsilat,hesap,cari,whatsapp,dükkan",
+    "description": "Tally, küçük esnaf için dijital veresiye defteridir: bakkal, fırın, kasap, mahalle marketi. Müşterinin borcunu yaz, ödemeyi kaydet, WhatsApp'tan nazik bir hatırlatma gönder; hepsi cebinde.\n\nÖZELLİKLER\n• Borç ve ödemeyi saniyeler içinde ekle: ad, tutar, tamam\n• Her müşterinin bakiyesi kendiliğinden hesaplanır\n• WhatsApp hatırlatması: bakiyeyle birlikte tek dokunuşla\n• Hesap dökümünü müşterinle paylaş\n• Uygulama kilidi: Face ID / parmak izi\n• CSV dışa aktarma, yedekleme ve geri yükleme\n\nVERİN SENDE KALIR\nİnternet gerekmez, hesap yok, bulut yok. Tüm kayıtlar yalnızca cihazında.\n\nKâğıt defteri kaldır; veresiye defterin artık cebinde.",
+    "promotionalText": "Kâğıt veresiye defterini kaldır: müşteri borcunu yaz, ödemeyi kaydet, WhatsApp'tan hatırlat. İnternetsiz, hesapsız, tamamen cihazında."
+   }
+  }
+ },
+ "6785227974": {
+  "slug": "dodge-arena",
+  "project": "DodgeArena",
+  "locales": {
+   "tr": {
+    "name": "Dodge Arena: Toplardan Kaç",
+    "subtitle": "Refleks ve hayatta kalma oyunu",
+    "keywords": "top,aksiyon,oyun,survival,neon,sonsuz,casual,arcade,offline,internetsiz,zor,beceri,hız,parmak",
+    "description": "Arenada hayatta kal. Her şeyden kaç.\n\nDodge Arena, sonsuz bir hayatta kalma oyunudur. Seni takip eden avcı toplardan, hızla çoğalan düşmanlardan ve daralan arenadan kurtulmaya çalış.\n\nNASIL OYNANIR\nParmağını sürükle ya da dokun, oyuncunu hareket ettir. Toplar sana çarpmadan olabildiğince uzun süre hayatta kal.\n\nGÜÇLENDİRMELER\n• Kalkan: hasar koruması\n• Can: ekstra yaşam hakkı\n• Dondur: tüm topları durdur\n• Savur: yakındaki topları it\n• Kötü güçlendirmelerden (ateş, hız, alan) kaç!\n\nSEVİYE SİSTEMİ\nHer seviyede toplar hızlanır, çoğalır ve arena küçülür. 10. seviyeye ulaşabilir misin?\n\nÖZELLİKLER\n• Selfie modunda kendi yüzünle oyna\n• Neon görsel efektler ve top izleri\n• Ağır çekim, patlama efektleri, ekran sarsıntısı\n• Reklamsız, ücretsiz, tamamen internetsiz"
+   },
+   "en-GB": {
+    "newLocale": true,
+    "name": "Dodge Arena: Toplardan Kaç",
+    "subtitle": "Dodge. Survive. Repeat.",
+    "keywords": "ball,endless,action,reflex,hyper casual,game,power up,bullet time,selfie,top oyunu",
+    "description": "Survive the arena. Dodge everything.\n\nDodge Arena is an endless survival game. Escape the hunter balls chasing you, the fast-multiplying enemies and the shrinking arena.\n\n• Drag or tap to move\n• Power-ups: shield, extra life, freeze, push — and bad ones to avoid\n• Every level is faster, busier and smaller. Can you reach level 10?\n• Play with your own face in selfie mode\n• Neon effects, bullet time, particles\n• No ads, free, fully offline"
+   }
+  }
+ },
+ "6785089641": {
+  "slug": "hocaya-sor",
+  "project": "HocayaSor",
+  "locales": {
+   "tr": {
+    "name": "Hocaya Sor: Dini Soru Cevap",
+    "subtitle": "Fetva, fıkıh ve İslami rehber",
+    "keywords": "hoca,fikih,kuran,hadis,ibadet,helal,haram,alim,danışmanlık,dua,namaz,oruç,abdest,nikah,zekat,tefsir",
+    "description": "Dini sorularınızı İslam âlimlerine sorun, güvenilir cevaplar alın.\n\nHocaya Sor; fıkıh, ibadet, Kur'an ve tefsir, hadis ve sünnet, akaid ve güncel dini meseleler hakkında uzman hocalara soru sorabildiğiniz ücretsiz bir dini danışmanlık uygulamasıdır.\n\nNASIL ÇALIŞIR?\nSorunuzu yazın ve gönderin. Uzman hocalarımız sorunuzu inceler ve en kısa sürede ayrıntılı cevap yazar. Cevap hazır olduğunda bildirim alırsınız.\n\nKONU KATEGORİLERİ\n• Fıkıh ve ibadet\n• Kur'an ve tefsir\n• Hadis ve sünnet\n• Akaid ve inanç\n• Helal ve haram\n• Aile ve nikâh\n• Güncel dini meseleler\n\nTamamen ücretsizdir. Abonelik veya ödeme yoktur."
+   },
+   "en-GB": {
+    "newLocale": true,
+    "name": "Hocaya Sor: Dini Soru Cevap",
+    "subtitle": "İslam âlimine sorunu sor",
+    "keywords": "imam,müftü,diyanet,ilmihal,akaid,sünnet,bilgi,islami,müslüman,caiz mi,günah",
+    "description": "Ask your religious questions to Islamic scholars and receive reliable answers.\n\nHocaya Sor is a free religious guidance app where you can ask expert scholars about fiqh, worship, the Qur'an and tafsir, hadith and sunnah, creed and current religious matters.\n\nWrite and send your question; a scholar reviews it and writes a detailed answer, and you get a notification when it's ready. Completely free, no subscription.\n\nNote: the app interface is in Turkish."
+   }
+  }
+ },
+ "6835023402": {
+  "slug": "detoks",
+  "project": "Detoks",
+  "locales": {
+   "tr": {
+    "name": "Dijital Detoks: Önce Hak Et",
+    "subtitle": "Uygulama kilidi ve odak",
+    "keywords": "ekran süresi,instagram engelle,sosyal medya,alışkanlık,seri,namaz,dil,tiktok,bağımlılık,engelleyici"
+   },
+   "en-US": {
+    "name": "Digital Detox: Earn It First",
+    "subtitle": "App blocker & focus",
+    "keywords": "screen time,block instagram,social media,habit,streak,study,productivity,tiktok,limit,addiction,lock"
+   }
+  }
+ }
+}

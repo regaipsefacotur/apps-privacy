@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://regaipsefacotur.github.io/apps-privacy/sitemap.xml

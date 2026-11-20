@@ -1,0 +1,414 @@
+{
+ "6834456163": {
+  "versions": [
+   [
+    "52be1464-5bae-4f27-a19e-4f3a6cf805ee",
+    "1.0",
+    "READY_FOR_SALE"
+   ]
+  ],
+  "loc": {
+   "tr": {
+    "description": "Nurum; zikir, namaz ve Kur'an için sade, ücretsiz bir manevi rutin uygulamasıdır. Reklam yok, abonelik yok, hesap yok, takip yok.\n\nZİKİRMATİK\n• Ekranın her yerine dokunarak say; titreşim ve isteğe bağlı tık sesi\n• 200 dua: Arapça, okunuş, anlam, kısa açıklama ve fazilet\n• Namaz tesbihatı ve kendi setlerin; Allah'ın 99 ismi\n• Ana ekran ve kilit ekranı widget'ından uygulamayı açmadan zikir çek\n• Yanlışlıkla sıfırlamaya karşı onay ve geri al\n\nNAMAZ\n• Diyanet vakitleri; 81 il, 900'e yakın ilçe, çevrimdışı\n• Vakit bildirimleri, namaz takibi, kaza borcu, kıble pusulası\n\nKUR'AN-I KERÎM\n• Arapça metin, okunuş ve seçilebilir meal: Diyanet Vakfı, Rowwad, Shaban Britch\n• Mushaf sayfa düzeni, cüz listesi, hafız modu, ezber tekrarı\n• Meal içinde arama, sesli tilavet, işaret, not, vurgu\n• Kaldığın yer, hatim yüzdesi ve okuma serisi\n• Birlikte hatim: 30 cüzü aile ve arkadaşlarınla paylaş\n\nODAKLAN\n• Dikkat dağıtan uygulamaları Ekran Süresi ile kilitle\n• Kilidi açmak için kısa bir zikir çek; istersen namaz vakitlerinde otomatik kilitlensin\n• Hangi uygulamaları kullandığını Nurum göremez; seçimlerin telefonunda kalır\n\nHER GÜN\n• Bugünün üç adımı: bir zikir, bir ayet, bir isim\n• Günün hadisi (kaynağıyla), bugünün hayırları\n• Kilit ekranında dönen ayet ve haftalık özet\n• Hâline göre ayetler: umut, huzur, şükür…\n\nGİZLİLİK\nTüm kayıtların yalnızca telefonunda tutulur. Uygulamanın sunucusu yoktur, senden hiçbir veri toplanmaz. İstersen verilerini tek dosyaya yedekleyip yeni telefonuna taşıyabilirsin.\n\nMeal metinleri QuranEnc.com'dan, yayıncısı ve sürümüyle, değiştirilmeden sunulur.",
+    "promotionalText": "Seni takip etmeyen, sadece Allah'ı hatırlatan uygulama. Zikirmatik, Diyanet vakitleri, mealli Kur'an, 200 dua, Odaklan ve kilit ekranında ayet.",
+    "supportUrl": "https://regaipsefacotur.github.io/apps-privacy/destek/",
+    "whatsNew": null
+   }
+  }
+ },
+ "6834775200": {
+  "versions": [
+   [
+    "4c3aa978-a984-4f87-ab23-bd66789a8c91",
+    "1.0.2",
+    "READY_FOR_SALE"
+   ],
+   [
+    "49ad24ac-1a38-44be-bc75-d014e4c1868d",
+    "1.0.1",
+    "READY_FOR_SALE"
+   ],
+   [
+    "04381b2d-739a-4bc5-83f1-e4f52276281f",
+    "1.0.0",
+    "READY_FOR_SALE"
+   ]
+  ],
+  "loc": {
+   "tr": {
+    "description": "Bediüzzaman Said Nursî'nin Risale-i Nur Külliyatı'nı lügatı ve sesli okumasıyla birlikte okuyun.\n\nKELİMEYE DOKUN, ANLAMINI GÖR\nAnlamını bilmediğiniz kelimeye dokunun; o cümledeki anlamı, kökü ve Osmanlıca yazılışıyla birlikte açılır. Lügatı olmayan kelimeler için genel bir Osmanlıca–Türkçe lügat de içeride.\n\nSESLİ OKUMA, KELİME KELİME TAKİP\nHer bölümü dinleyebilirsiniz. Okunan kelime metinde vurgulanır, ekran okunan yeri takip eder. Hızı ayarlayın, bir paragrafa uzun basıp oradan dinlemeye başlayın. Ekran kilitliyken de çalmaya devam eder. İsterseniz bir kitabın sesini indirip internetsiz dinleyin.\n\nKÜLLİYATIN TAMAMI\nSözler, Mektubat, Lem'alar, Şuâlar, Mesnevî-i Nuriye, İşârâtü'l-İ'câz, Asâ-yı Mûsâ, Lâhikalar, Sikke-i Tasdik-i Gaybî, Muhâkemat, Tarihçe-i Hayat, İman ve Küfür Muvazeneleri ve İlk Dönem Eserleri. Haşiyeler, ayet ve hadislerin mealleri, basılı nüshanın sayfa numaraları dahil.\n\nRAHAT OKUMA\nSade ve ferah okuma ekranı, ayarlanabilir yazı boyutu, açık ve koyu tema. Hastalar, İhtiyarlar, Haşir, Tabiat, İhlas gibi bilinen risalelere tek dokunuşla ulaşın. Kaldığınız yeri ve her bölümdeki ilerlemenizi uygulama hatırlar.\n\nARAMA\nKülliyatın tamamında arama yapın; şapkalı harf ve kesme işareti yazmanıza gerek yok.\n\nHesap yok, reklam yok, veri toplama yok. Metin ve lügat uygulamanın içinde gelir; internet yalnızca sesli okuma için gerekir.",
+    "promotionalText": null,
+    "supportUrl": "https://regaipsefacotur.github.io/apps-privacy/destek/",
+    "whatsNew": "Yeni\n• Paragrafa uzun bas: kitap işareti koy, renkle vurgula, not ekle, paylaş ya da kopyala.\n• İşaretlerim: işaretlerin, renkli paragrafların ve notların kitaplara göre bir arada.\n• Lügat araması: Ara sekmesinde 56 bin maddelik lügatta kelime ara.\n• Okuma paneli: sayfaya git, otomatik kaydırma ve satır aralığı.\n• Kütüphane rafları: En son okunanlar, Sık okunanlar, Büyük boy ve Küçük boy risaleler (Haşir, Hastalar, İhtiyarlar, Ene ve Zerre, Meyve ve daha fazlası).\n• Kütüphanede günlük okuma ve seri.\n• Tarih çevirici: Miladi, Hicri ve Rumi tarihler arasında (Ayarlar).\n\nİyileştirmeler\n• Aramada sonuca dokununca metin, kelimenin geçtiği yerde açılır ve kelime vurgulanır; sonuçlar kitaplara göre gruplanır.\n• Metin içindeki ayetler üst satırla çakışmıyor; ayetle başlayan paragraflarda Türkçe doğru sırayla akıyor."
+   }
+  }
+ },
+ "6834577667": {
+  "versions": [
+   [
+    "d8bbdc40-884b-469f-81f8-57f7279bf645",
+    "1.0.1",
+    "READY_FOR_SALE"
+   ],
+   [
+    "cede1798-b028-4080-ba4b-6883c84edb36",
+    "1.0.0",
+    "READY_FOR_SALE"
+   ]
+  ],
+  "loc": {
+   "tr": {
+    "description": "İngilizceyi ezberleyerek değil, çocukların öğrendiği gibi öğren: önce bol bol dinle ve anla, sonra taklit et, en sonunda kendi cümlelerini kur.\n\nLinguaFlow, A1'den B2'ye uzanan sesli bir hikâye dizisi üzerine kurulu. Her bölüm aynı yolu izler: hikâyeyi dinle, yeni kelimeleri bağlamında gör, cümleleri gölgeleyerek tekrar et, sonra konuş ve yaz.\n\nHİKÂYEYLE ÖĞREN\n• A1, A2, B1 ve B2 seviyelerinde 104 sesli bölüm\n• Her sezon sonunda seviyeni ölçen yeterlilik kapıları\n• Doğal hızda, profesyonel seslendirme\n\nDİNLE, TAKLİT ET, KONUŞ\n• Gölgeleme: cümleyi dinle, aynı ritimle tekrar et, telaffuzun anında puanlansın\n• Dikte ve cümle kurma alıştırmaları\n• Rol oyunu ve serbest sohbet: hikâyedeki karakterlerle İngilizce konuş\n\nKELİMELER SEKMESİ\n• A1'den C2'ye yaklaşık 9.700 kelime, Türkçe karşılıkları ve örnek cümleleriyle\n• Fiillerin geçmiş halleri (V1 · V2 · V3), düzensiz fiiller ayrı listede\n• Sözlük gibi ara: İngilizce ya da Türkçe yaz, anında bul\n• Günde 10 kelimelik çalışma turları, aralıklı tekrar\n\nOKU\n• A1–B2 seviyelerinde 18 sesli okuma kitabı: klasiklerin sade uyarlamaları\n• Cümleye uzun bas, Türkçesini gör\n• Kütüphanede seviyene göre işaretlenmiş ek okumalar\n\nKİLİT EKRANI WİDGET'LARI\n• Kelime: gün boyu değişen bir kelime, Türkçesi ve geçmiş halleri\n• Kalıp: her gün yeni bir kalıp cümle ve Türkçesi\n\nYAPAY ZEKÂ (İSTEĞE BAĞLI)\nKonuşma, yazma değerlendirmesi ve sohbet özellikleri kendi API anahtarınla çalışır (Anthropic Claude, OpenAI ya da Google Gemini). Anahtar telefonundaki güvenli depoda saklanır; yazdıkların doğrudan seçtiğin sağlayıcıya gider. Hikâyeler, dinleme, gölgeleme, kelimeler ve okuma kitapları anahtar olmadan da çalışır.\n\nGİZLİLİK\nHesap yok, reklam yok, takip yok. İlerlemen yalnızca telefonunda durur; istersen yedeğini dışa aktarabilirsin.",
+    "promotionalText": null,
+    "supportUrl": "https://regaipsefacotur.github.io/apps-privacy/destek/",
+    "whatsNew": "Uygulama çok daha küçük: sesler yeniden sıkıştırıldı, A2, B1 ve B2 sezonlarının sesleri artık o sezona geçince ayrı iniyor. İnen sesler internetsiz de çalışır; Harita'dan istediğin zaman silebilirsin."
+   }
+  }
+ },
+ "6834460728": {
+  "versions": [
+   [
+    "b66fd6f7-01ad-42d0-b096-df0c3d1d1436",
+    "1.0.0",
+    "READY_FOR_SALE"
+   ]
+  ],
+  "loc": {
+   "tr": {
+    "description": "Ayet Ayet, Kur'an-ı Kerim'i her gün biraz okuyarak baştan sona meal ve tefsiriyle bitirmen için hazırlandı.\n\nHER GÜN BİR OKUMA\nHer gün sana ayrılan okumayı Arapça metni, Türkçe meali ve tefsiriyle birlikte okursun. Sırayla ilerlersin; bir okumayı bitirmeden sonrakine geçilmez, böylece hiçbir ayet atlanmaz.\n\nOKUYANA KADAR HATIRLATIR\nSeçtiğin saatte bildirim gelir. O günün okumasını tamamlamadıysan hatırlatma tekrarlanır.\n\nAYET AKIŞI\nTefsirsiz, kısa günlük ayetler için ayrı bir akış ve ayrı bildirim. Gün içinde bir ayetle durup düşünmek için.\n\nSERBEST OKUMA VE SURELER\nDilediğin sureyi açıp serbestçe okuyabilirsin. Sıralı okuman bundan etkilenmez.\n\nALTINI ÇİZ, KAYDET\nSeni etkileyen ayetlerin altını çiz, Kayıtlar sekmesinde hepsine tek yerden dön.\n\nİLERLEMENİ GÖR\nKur'an'ın ne kadarını okuduğunu, kalan süreyi ve okuma serini takip et.\n\nNAMAZ VAKİTLERİ\nBulunduğun il ve ilçeye göre Diyanet namaz vakitleri. İstersen il/ilçeyi elle de seçebilirsin.\n\nÖZEL VE ÇEVRİMDIŞI\nHesap yok, reklam yok, veri toplama yok. Kur'an metni, meal ve tefsir uygulamanın içinde gelir; internet olmadan okuyabilirsin. İlerlemen yalnızca telefonunda saklanır.\n\nMeal ve tefsir metinleri Diyanet İşleri Başkanlığı'nın izniyle kullanılmıştır.",
+    "promotionalText": "Her gün bir okuma: Arapça metin, Türkçe meal ve tefsir. Okuyana kadar hatırlatır, Kur'an'ı baştan sona bitirmene yardım eder.",
+    "supportUrl": "https://regaipsefacotur.github.io/apps-privacy/destek/",
+    "whatsNew": null
+   }
+  }
+ },
+ "6799484319": {
+  "versions": [
+   [
+    "fe82a58c-2d87-4407-8c05-4e2545cbc30c",
+    "1.0",
+    "READY_FOR_SALE"
+   ]
+  ],
+  "loc": {
+   "tr": {
+    "description": "Telefonunda namaz için bir uygulama, ilaç hatırlatması için bir başkası, su takibi için üçüncüsü var. Her biri ayrı bildirim gönderiyor, hiçbiri diğerini bilmiyor. Mihver bunların yerine tek bir düzen kuruyor: merkezde sen varsın, modüller senin etrafında çalışır.\n\nNASIL ÇALIŞIR\n1. İlk açılışta birkaç soruya cevap ver\n2. Sana uygun modüller önerilir — istediğini ekle, istemediğini çıkar\n3. En çok kullandığın üçü Bugün ekranında favori olarak durur\n\nNAMAZ\n• Vakitler bulunduğun ilçenin koordinatına göre hesaplanır — ilçeden ilçeye dakikalarca fark eder\n• Kıldığın vakitleri işaretle, kaza namazını takip et\n• Teheccüd penceresi (gecenin son üçte biri) hesaplanır\n• Ezan sesiyle vakit bildirimleri, her vakit için ayrı ayarlanabilir\n• Kıble, imsakiye, zikirmatik, Esmaül Hüsna, dualar, zekat hesabı, dini günler, hatim takibi\n\nZORUNLU ALARM\nSabah namazına kalkmak zorsa: sorular çözülmeden susmayan bir alarm. Telefon sessizdeyken de çalar, uygulama kapalıyken sistem alarmı devreye girer. İstersen \"yataktan kalk\" şartı ekle — sorular bittikten sonra birkaç adım atmadan susmaz. Sorular matematik ya da islami bilgi olabilir; yaşlı kullanıcılar için islami seçenek varsayılan.\n\nSAĞLIK VE TAKİP\n• İlaç listesi, doz saatleri, stok ve rapor süresi takibi\n• Tansiyon, nabız, kan şekeri, kilo\n• Su hedefi — sıcak günlerde hedef kendiliğinden artar\n• Uyku, adım, spor, diyet, nefes egzersizi, meditasyon\n• Ruh hali ve günlük\n\nGÜNLÜK YAŞAM\n• Görevler, hatırlatmalar, doğum günleri, alışveriş listesi\n• Harcama, yatırım, fatura ve abonelik takibi\n• Araç bakımı, ev bakımı, belge süreleri, evcil hayvan, bitki sulama, çocuk takibi\n• Deprem uyarıları\n\nKONUŞARAK YÖNET\n\"Bugün 3 bardak su içtim\", \"öğleyi kıldım\", \"dünkü uykuyu 8 saat yap\" — kayıt eklemek, güncellemek ve silmek için menü aramana gerek yok. Asistan tamamen cihazında çalışır.\n\nBİLDİRİMLER SESSİZ KALSIN\nOtuz modül açıkken günde elli bildirim gelmesin diye günlük bir üst sınır var ve varsayılan en düşük ayarda. Hangi modülden ne sıklıkta haber almak istediğine sen karar verirsin. Gece için sessiz saat tanımlanabilir; ilaç dozu ve namaz vakti bu kuralın dışındadır.\n\nVERİLERİN SENDE KALIR\nHesap açmak gerekmez. Kayıtların telefonunda durur, bir sunucuya gönderilmez. İstersen günde bir kez KENDİ iCloud hesabına yedek alınır — o yedeğe biz erişemeyiz. Takip için internet gerekmez; yalnızca hava durumu, deprem, döviz ve borsa bilgisi ağdan gelir.\n\nMihver tıbbi teşhis koymaz, tedavi önermez. Sağlık kararların için doktoruna danış.",
+    "promotionalText": "Namaz vakti, ilaç saati, su, uyku, tansiyon, bütçe, ev işleri… Hepsi ayrı uygulama değil. Sana lazım olan modülleri seç, gerisi tek düzende toplanır.",
+    "supportUrl": "https://regaipsefacotur.github.io/apps-privacy/destek/",
+    "whatsNew": null
+   }
+  }
+ },
+ "6801420159": {
+  "versions": [
+   [
+    "8fc0f6ff-52ba-4415-9db1-fdd9d1079929",
+    "1.0",
+    "READY_FOR_SALE"
+   ]
+  ],
+  "loc": {
+   "tr": {
+    "description": "Sukur, Allah'in sana her an verdigi ama farkina bile varmadigin nimetleri hatirlatan bir uygulamadir.\n\nGun icinde belirledigin saatlerde kisa, vurucu bildirimler alirsin. Her bildirim seni bir an durdurup dusundurur: nefes almak, kalbin atmasi, sevdiklerin, gorduklerin...\n\n1875 ozgun metin, 8 kategori:\n- Beden: Kalbin, nefesin, gozlerin\n- Duyular: Gorme, duyma, tatma\n- Doga: Su, toprak, gunes\n- Gokyuzu: Yildizlar, ay, bulutlar\n- Rizik: Sofrandaki nimetler\n- Sevdikler: Aile, dostluk, bag\n- Zaman: Anlar, mevsimler, omur\n- Gizli Nimetler: Farkinda olmadiklarin\n\n- Gunde 1-8 bildirim, istedigin saatte\n- Kategori bazli filtreleme\n- Internet baglantisi gerektirmez\n- Tamamen ucretsiz, reklamsiz\n\nBir an dur. Dusun. Sukret.",
+    "promotionalText": null,
+    "supportUrl": "https://sefacotur.com",
+    "whatsNew": null
+   }
+  }
+ },
+ "6801551533": {
+  "versions": [
+   [
+    "9536377d-ed58-475c-9de2-0e1d4bf7d131",
+    "1.0",
+    "READY_FOR_SALE"
+   ]
+  ],
+  "loc": {
+   "tr": {
+    "description": "Karar vermek bazen işin en zor kısmı. Çark, o kararı senin yerine tarafsız biçimde veriyor.\n\nİki iş yapar:\n\n■ KARAR ÇARKI\nSeçenekleri yaz, çarkı çevir, çıkanı uygula. Akşam ne yeneceğinden hafta sonu nereye gidileceğine kadar her tıkanma anı için.\n\n7 hazır şablonla anında başlayabilirsin:\nNe Yesek? · Ne İzlesek? · Ne İçsek? · Ne Oynasak? · Nereye Gitsek? · Kimin Sırası? · Ne Sporu Yapalım?\n\nŞablonları olduğu gibi çevirebilir ya da kendi çarkını sıfırdan kurabilirsin. İsim, ikon ve istediğin kadar seçenek senin.\n\n■ ÇEKİLİŞ VE KURA\nKatılımcıları gir, çarkı çevir. Her çevirişte bir kişi çıkar ve listeden düşer; sonraki çevirişte kalanlar yarışır. Herkes çekilene kadar sürer ve sonunda tam sıralamayı verir.\n\nAcelen varsa tek dokunuşla anında karıştırabilirsin. Sonuç ekranında ilk üç madalyayla işaretlenir, sıralamayı olduğu gibi paylaşabilirsin. Aynı kişilerle tekrar çekmek istersen tek tuş yeter.\n\n■ NASIL ÇALIŞIR\nGerçek 3B çark, dönerken üzerinde gezen ışık ve her dişte gelen titreşimle beraber çalışır. Çarkın durduğu dilim ile gösterilen sonuç her zaman aynıdır.\n\n■ GİZLİLİK\nHesap yok, sunucu yok, reklam yok, takip yok. Uygulama hiçbir ağ isteği yapmaz. Çarkların, katılımcı isimlerin ve sonuçların yalnızca telefonunda durur. İnternet olmadan da tam çalışır.",
+    "promotionalText": "Karar veremediğinde çevir. Kalabalıkta sıra belirlemek gerektiğinde çekiliş yap. Hepsi çevrimdışı, hepsi ücretsiz.",
+    "supportUrl": "https://regaipsefacotur.github.io/apps-privacy/destek/",
+    "whatsNew": null
+   }
+  }
+ },
+ "6798577581": {
+  "versions": [
+   [
+    "981940fe-1688-4fb9-b82a-9d96e9f692f0",
+    "1.0.0",
+    "READY_FOR_SALE"
+   ]
+  ],
+  "loc": {
+   "tr": {
+    "description": "Şehir gürültülü. Sakin Nokta, o gürültünün içinde nefes alabileceğin yerleri bulmanı sağlar.\n\nNE İŞE YARAR\nÇalışmak için sessiz bir köşe, dinlenmek için huzurlu bir bahçe ya da sadece yürümek için tenha bir yol — ne aradığını seç, sana yakın olanları sakinlik sırasına göre gör.\n\nMODA GÖRE ÖNERİ\n• Çalış — sessiz, konsantre olabileceğin alanlar\n• Dinlen — huzurlu, kalabalıktan uzak noktalar\n• Yürü — keşif yürüyüşüne uygun rotalar\n\nSAKİNLİK SKORU\nHer mekan bir sakinlik puanı taşır. Günün hangi saatinde daha tenha olduğunu grafikte görebilir, \"şu an sakin mi?\" sorusunun cevabını gitmeden öğrenebilirsin.\n\nHAZIR KATALOG\nTürkiye ve Avrupa'dan 1.800'den fazla park, kütüphane, botanik bahçe, sahil, kitapçı ve müze başlangıç kataloğunda hazır. OpenStreetMap üzerinden canlı arama ile listeyi dilediğin bölgeye genişletebilirsin.\n\nKENDİ NOKTANI EKLE\nKeşfettiğin sakin yeri kendi listene ekle, not düş, etiketle. Beğendiklerini favorilere al, değerlendirme yaz, fotoğraf ekle.\n\nYOL TARİFİ\nBeğendiğin noktaya tek dokunuşla yürüyüş tarifi başlat.\n\nHESAP YOK, TAKİP YOK\nKayıt olmanız gerekmez. Uygulama sizden veri toplamaz, hiçbir sunucuya bilgi göndermez. Favorileriniz, notlarınız ve değerlendirmeleriniz yalnızca kendi telefonunuzda kalır.\n\nTürkçe ve İngilizce desteklenir.",
+    "promotionalText": "Kalabalıktan uzak bir köşe mi arıyorsun? Çalış, dinlen veya yürü — moduna göre sana en uygun sakin noktayı öner, yol tarifini tek dokunuşla başlat.",
+    "supportUrl": "https://regaipsefacotur.github.io/apps-privacy/destek/",
+    "whatsNew": null
+   }
+  }
+ },
+ "6798576007": {
+  "versions": [
+   [
+    "b3197113-fcf0-46ed-ab52-e6310ce4dfd6",
+    "1.0.0",
+    "READY_FOR_SALE"
+   ]
+  ],
+  "loc": {
+   "tr": {
+    "description": "Bir şehre gidiyorsun ama hangi gün nereye gideceğini planlamak saatler alıyor. Rota Planlayıcı bunu birkaç dakikaya indirir.\n\nNASIL ÇALIŞIR\n1. Ülke ve şehir seç\n2. Kalacağın yeri ve kaç gün kalacağını gir\n3. Gezilecek yerleri kart kart gör — beğendiğini sağa, atladığını sola kaydır\n4. Günlük rotan otomatik oluşsun\n\nAKILLI GÜNLÜK DAĞITIM\nSeçtiğin yerler konumlarına, gezme sürelerine ve önceliklerine göre günlere dağıtılır. Aynı bölgedeki duraklar aynı güne toplanır, böylece şehirde boşuna gidip gelmezsin.\n\nKENDİNE GÖRE AYARLA\n• Tempo: Sakin, Dengeli veya Yoğun\n• Ulaşım: Yürüyerek, toplu taşıma veya karma\n• Konaklama noktası: rotalar kaldığın yerden başlar\n\n35 ÜLKE, 203 ŞEHİR\nİstanbul'dan Roma'ya, Amsterdam'dan Tokyo'ya hazır mekan kataloğu. Wikipedia ve OpenStreetMap kaynaklı bilgiler ve fotoğraflarla.\n\nGOOGLE MAPS'E AKTAR\nHazırladığın günlük rotayı tek dokunuşla Google Maps'te aç ve navigasyonu başlat.\n\nPLANLARINI SAKLA VE PAYLAŞ\nOluşturduğun planları kaydet, sonradan düzenle. Bir plan kodu üreterek arkadaşına gönder, o da kendi uygulamasına yükleyebilsin.\n\nHESAP YOK, TAKİP YOK\nKayıt olmanız gerekmez. Uygulama sizden veri toplamaz, hiçbir sunucuya bilgi göndermez. Planlarınız yalnızca kendi telefonunuzda kalır.\n\nTürkçe ve İngilizce desteklenir.",
+    "promotionalText": null,
+    "supportUrl": "https://regaipsefacotur.github.io/apps-privacy/destek/",
+    "whatsNew": null
+   }
+  }
+ },
+ "6792672214": {
+  "versions": [
+   [
+    "dc5b2bd1-224d-4df3-92f3-4a60e21145d0",
+    "1.0",
+    "READY_FOR_SALE"
+   ]
+  ],
+  "loc": {
+   "en-US": {
+    "description": "Some things are left unsaid. Hereafter gives you a private, secure place to finally say them — so when you're gone, the people you love can hear your voice, read your words, and know what you wished for them.\n\nWHAT YOU CAN DO\n\n• Write letters — To each person who matters. Personal, private, and waiting for them.\n• Leave voice messages — Record the words that writing can't capture. Add videos too.\n• Settle your debts — Record what you owe and what's owed to you. Leave with peace.\n• Share your wishes — How do you want to be remembered? Who gets what?\n• Store vital information — Documents, insurance, accounts. Make it easy for them.\n• Create a Legacy File — Everything in one PDF. Print it, seal it, or share it securely.\n\nCOMPLETELY PRIVATE\n\nNothing leaves your phone. No servers, no accounts, no internet required. Lock the app with Face ID or fingerprint whenever you like.\n\nThis app isn't about death. It's about love — finishing what you started, saying what matters, and leaving the people you care about with something real.\n\nYour words. Your trace. Theirs to keep.\n\nNote: Hereafter is not a legal will. For official documents, consult a notary.",
+    "promotionalText": "Write what you never had the chance to say. When your time comes, let your words live on.",
+    "supportUrl": "https://gist.github.com/regaipsefacotur/1783563fbb058ff07a83eface32f1062",
+    "whatsNew": null
+   }
+  }
+ },
+ "6792676906": {
+  "versions": [
+   [
+    "c6430902-802b-4530-9e24-42111cedbc35",
+    "1.0",
+    "READY_FOR_SALE"
+   ]
+  ],
+  "loc": {
+   "en-US": {
+    "description": "Tally is the digital credit ledger for small merchants — grocers, bakers, butchers, corner shops. Track what customers owe, record payments, and send a polite reminder via WhatsApp, all from your pocket.\n\nFEATURES\n\n• Add debts and payments in seconds — name, amount, done.\n• Real-time balance per customer, automatically calculated.\n• WhatsApp reminder — send a payment nudge with their balance in one tap.\n• Share account statements — transparent history with any customer.\n• App lock — Face ID / fingerprint keeps your ledger private.\n• CSV export — your full ledger in a spreadsheet.\n• Backup & restore — JSON backup, restore on any phone.\n\nYOUR DATA STAYS WITH YOU\n\nNo internet required, no account, no cloud. All records live only on your device. Your ledger is yours alone.\n\nPut the paper ledger away — your book is now in your pocket.",
+    "promotionalText": "Say goodbye to the paper ledger. See who owes what at a glance — and remind them with one tap.",
+    "supportUrl": "https://gist.github.com/regaipsefacotur/9a644f4c30ca93d1ff4805f4701c5d9f",
+    "whatsNew": null
+   }
+  }
+ },
+ "6785227974": {
+  "versions": [
+   [
+    "e979de04-3c3c-4ebc-baab-4f46554bdff2",
+    "1.0.1",
+    "READY_FOR_SALE"
+   ],
+   [
+    "e1cf3f2c-8491-4926-9640-70fd10ff98d8",
+    "1.0",
+    "READY_FOR_SALE"
+   ]
+  ],
+  "loc": {
+   "tr": {
+    "description": "Survive the arena. Dodge everything.\n\nDodge Arena, sonsuz bir hayatta kalma oyunudur. Seni takip eden hunter toplardan, hizla cogalan dusmanlara ve daralan arenadan kurtulmaya calis.\n\nNASIL OYNANIR\nParmaginı surukle veya dokun, oyuncunu hareket ettir. Toplar sana carpmadan olabildigince uzun sure hayatta kal.\n\nPOWER-UP'LAR\n- Kalkan: hasar korumasi\n- Can: ekstra yasam hakki\n- Dondur: tum toplari durdur\n- Savur: yakindaki toplari it\n- Kotu power-up'lardan (ates, hiz, alan) kac!\n\nSEVIYE SISTEMI\nHer seviyede toplar hizlanir, cogalir ve arena kucuklur. 10. seviyeye ulasabilir misin?\n\nOZELLIKLER\n- Selfie modunda kendi yuzunle oyna\n- Neon gorsel efektler ve top trail'leri\n- Bullet time, olum partikelleri, ekran sarsintiyi\n- Reklamsiz, ucretsiz, tamamen offline",
+    "promotionalText": "Versiyon 1.0.1: Kontroller iyileştirildi, oyun deneyimi daha akıcı hale getirildi.",
+    "supportUrl": "https://dodgearena.surge.sh",
+    "whatsNew": "- Oyuncu artık parmağın altında kalmıyor, her yerden sürükleyebilirsiniz\n- Çarpma anı daha belirgin hale getirildi"
+   }
+  }
+ },
+ "6785089641": {
+  "versions": [
+   [
+    "61bd4a66-bcdc-4c9f-acba-325d05fcf472",
+    "1.0",
+    "READY_FOR_SALE"
+   ]
+  ],
+  "loc": {
+   "tr": {
+    "description": "Dini sorularinizi Islam alimlerine sorun, guvenilir cevaplar alin.\n\nHocaya Sor, fikih, ibadet, Kuran ve Tefsir, Hadis ve Sunnet, akaid ve guncel dini meseleler hakkinda uzman hocalara soru sorabildiginiz ucretsiz bir dini danismanlik uygulamasidir.\n\nNasil Calisir?\nSorunuzu yazin ve gonderin. Uzman hocalarimiz sorunuzu inceler ve en kisa surede ayrintili cevap yazar. Cevap hazir oldigunda bildirim alirsiniz.\n\nKonu Kategorileri:\n- Fikih ve Ibadet\n- Kuran ve Tefsir\n- Hadis ve Sunnet\n- Akaid ve Inanc\n- Helal ve Haram\n- Aile ve Nikah\n- Guncel Dini Meseleler\n\nTamamen ucretsizdir. Abonelik veya odeme yoktur.",
+    "promotionalText": "Dini sorularınızı İslam alimlerine sorun. Fıkıh, ibadet, Kuran ve güncel dini meseleler hakkında güvenilir cevaplar alın.",
+    "supportUrl": "https://hocayasor-destek.surge.sh",
+    "whatsNew": null
+   }
+  }
+ },
+ "6784410643": {
+  "versions": [
+   [
+    "11f1f02c-b961-4c1e-93e4-862c59fe2f00",
+    "1.0",
+    "REJECTED"
+   ]
+  ],
+  "loc": {
+   "tr": {
+    "description": "SpeakToVet, evcil hayvanınız için 7/24 uzman veteriner danışmanlığı sunan uygulamadır.\n\nHayvanınızın sağlık durumuyla ilgili endişelerinizi fotoğraf veya yazı ile iletin; uzman veterinerler 24 saat içinde değerlendirip yanıt versin.\n\nÖZELLİKLER\n• Fotoğraf ve video ile durum aktarımı\n• Uzman veterinerlerin hızlı değerlendirmesi\n• Güvenli ve gizli mesajlaşma\n• Kedi, köpek ve tüm evcil hayvanlar için\n\nNASIL ÇALIŞIR\n1. Hayvanınızı ve durumu açıklayın\n2. Fotoğraf ekleyin\n3. Uzman veteriner yanıtınızı iletir\n\nKredi satın alarak dilediğiniz kadar soru sorabilirsiniz.",
+    "promotionalText": "Evcil hayvanınız için 7/24 uzman veteriner danışmanlığı. Fotoğraf gönderin, hızlıca yanıt alın.",
+    "supportUrl": "https://www.speaktovet.com",
+    "whatsNew": null
+   }
+  }
+ },
+ "6799755379": {
+  "versions": [
+   [
+    "81c4e450-2f33-4acc-8dba-2a6b7e04900c",
+    "1.0.0",
+    "READY_FOR_SALE"
+   ]
+  ],
+  "loc": {
+   "id": {
+    "description": "WalkUp adalah alarm yang tidak bisa kamu abaikan.\n\nTanpa tombol tunda. Tanpa geser untuk mematikan. Alarm terus berbunyi sampai kamu membuktikan sudah bangun — dengan menjawab beberapa soal sederhana, dan jika mau, dengan bangkit dari tempat tidur lalu benar-benar berjalan.\n\nCARA KERJANYA\n• Alarm berbunyi walau aplikasi tertutup dan ponsel senyap\n• Untuk mematikannya, jawab soal pilihan ganda sederhana\n• Opsional: wajib 10–30 langkah setelah soal, dihitung penghitung langkah ponsel\n• Menghentikan alarm sistem hanya menundanya: ia kembali dalam hitungan detik\n\nJENIS SOAL\n• Matematika — hitungan sederhana tanpa bahasa\n• Pengetahuan umum — fakta dunia yang mudah\n• Olahraga — sepak bola, basket, Olimpiade\n• Islami — pertanyaan agama dasar (opsional)\n• Campuran\n\nDIBUAT UNTUK YANG TIDURNYA NYENYAK\n• 16 suara, dari denting lembut sampai sirene sungguhan\n• Berbunyi menembus mode senyap dan Jangan Ganggu\n• Menutup aplikasi tidak menghentikan alarm\n• Volume naik otomatis selama alarm berbunyi\n\nPRIVASI SEJAK AWAL\nWalkUp bekerja sepenuhnya offline. Tanpa akun, iklan, atau analitik. Alarm dan langkahmu tidak pernah meninggalkan perangkat.\n\nWalkUp mendukung 9 bahasa dan otomatis mengikuti bahasa ponsel.",
+    "promotionalText": null,
+    "supportUrl": "https://regaipsefacotur.github.io/apps-privacy/destek/",
+    "whatsNew": null
+   },
+   "tr": {
+    "description": "WalkUp, görmezden gelemeyeceğin alarm.\n\nErteleme düğmesi yok. Kaydırıp kapatmak yok. Alarm, uyandığını kanıtlayana kadar çalar — birkaç basit soruyla, istersen bir de yataktan kalkıp gerçekten yürüyerek.\n\nNASIL ÇALIŞIR\n• Alarm, uygulama kapalıyken ve telefon sessizdeyken bile çalar\n• Susturmak için basit çoktan seçmeli soruları cevaplarsın\n• İstersen sorulardan sonra 10–30 adım şartı — telefonun kendi adım sayacıyla sayılır\n• Sistem alarmını durdurmak yalnızca erteler: bitirene kadar saniyeler içinde geri gelir\n\nSORU TİPLERİ\n• Matematik — basit işlemler, dil bilmeye gerek yok\n• Genel kültür — kolay dünya bilgileri\n• Spor — futbol, basketbol, olimpiyatlar\n• İslami — temel dini sorular (isteğe bağlı)\n• Karışık\n\nAĞIR UYUYANLAR İÇİN TASARLANDI\n• Yumuşak çandan gerçek sirene 16 alarm sesi\n• Sessiz mod ve Rahatsız Etmeyin'i aşar\n• Uygulamayı kapatmak alarmı durdurmaz\n• Alarm çalarken ses seviyesi kendiliğinden yükselir\n\nTASARIM GEREĞİ GİZLİ\nWalkUp tamamen çevrimdışı çalışır. Hesap yok, reklam yok, analiz yok. Alarmların ve adımların cihazından hiç çıkmaz.\n\nWalkUp 9 dili destekler ve telefonunun dilini otomatik izler.",
+    "promotionalText": null,
+    "supportUrl": "https://regaipsefacotur.github.io/apps-privacy/destek/",
+    "whatsNew": null
+   },
+   "es-ES": {
+    "description": "WalkUp es la alarma que no puedes ignorar.\n\nSin botón de posponer. Sin deslizar para apagar. La alarma sigue sonando hasta que demuestres que estás despierto: respondiendo unas preguntas sencillas y, si quieres, levantándote de la cama y caminando de verdad.\n\nCÓMO FUNCIONA\n• La alarma suena aunque la app esté cerrada y el teléfono en silencio\n• Para apagarla, responde preguntas sencillas de opción múltiple\n• Opcionalmente exige 10–30 pasos tras las preguntas, contados por el podómetro del teléfono\n• Detener la alarma del sistema solo la retrasa: vuelve en segundos hasta que termines\n\nTIPOS DE PREGUNTAS\n• Matemáticas — operaciones simples, sin idioma\n• Cultura general — datos fáciles del mundo\n• Deportes — fútbol, baloncesto, Juegos Olímpicos\n• Islámicas — preguntas religiosas básicas (opcional)\n• Mixto\n\nPARA LOS QUE DUERMEN PROFUNDO\n• 16 sonidos, del carillón suave a una sirena de verdad\n• Suena sobre el modo silencio y No molestar\n• Cerrar la app no detiene la alarma\n• El volumen sube automáticamente mientras suena\n\nPRIVADA POR DISEÑO\nWalkUp funciona completamente sin conexión. Sin cuenta, sin anuncios, sin análisis. Tus alarmas y pasos nunca salen de tu dispositivo.\n\nWalkUp está en 9 idiomas y sigue automáticamente el idioma del teléfono.",
+    "promotionalText": null,
+    "supportUrl": "https://regaipsefacotur.github.io/apps-privacy/destek/",
+    "whatsNew": null
+   },
+   "de-DE": {
+    "description": "WalkUp ist der Wecker, den du nicht ignorieren kannst.\n\nKeine Schlummertaste. Kein Wischen zum Ausschalten. Der Wecker klingelt, bis du beweist, dass du wach bist — mit ein paar einfachen Fragen und, wenn du willst, indem du aufstehst und wirklich gehst.\n\nSO FUNKTIONIERT ES\n• Der Wecker klingelt auch bei geschlossener App und stummem Telefon\n• Zum Ausschalten beantwortest du einfache Multiple-Choice-Fragen\n• Optional: 10–30 Schritte nach den Fragen, gezählt vom Schrittzähler des Telefons\n• Den Systemwecker zu stoppen verschiebt ihn nur: er kommt binnen Sekunden zurück\n\nFRAGETYPEN\n• Mathematik — einfaches Rechnen, ohne Sprache\n• Allgemeinwissen — leichte Weltfakten\n• Sport — Fußball, Basketball, Olympia\n• Islamisch — einfache religiöse Fragen (optional)\n• Gemischt\n\nFÜR TIEFSCHLÄFER GEMACHT\n• 16 Töne, vom sanften Glockenspiel bis zur echten Sirene\n• Klingelt über Stummmodus und Nicht stören\n• Das Beenden der App stoppt den Wecker nicht\n• Die Lautstärke wird während des Klingelns automatisch angehoben\n\nPRIVAT BY DESIGN\nWalkUp funktioniert komplett offline. Kein Konto, keine Werbung, keine Analyse. Deine Wecker und Schritte verlassen nie dein Gerät.\n\nWalkUp unterstützt 9 Sprachen und folgt automatisch der Systemsprache.",
+    "promotionalText": null,
+    "supportUrl": "https://regaipsefacotur.github.io/apps-privacy/destek/",
+    "whatsNew": null
+   },
+   "en-US": {
+    "description": "WalkUp is the alarm you cannot ignore.\n\nNo snooze button. No swipe to dismiss. The alarm keeps ringing until you prove you are awake — by answering a few simple questions, and if you choose, by getting out of bed and actually walking.\n\nHOW IT WORKS\n• The alarm rings even when the app is closed and the phone is silenced\n• To stop it, answer simple multiple-choice questions\n• Optionally require 10–30 steps after the questions — counted by your phone's built-in step counter\n• Stopping the system alarm only delays it: it comes back within seconds until you finish\n\nQUESTION TYPES\n• Math — simple arithmetic, no language needed\n• General knowledge — easy world facts\n• Sports — football, basketball, the Olympics\n• Islamic — basic religious questions (optional)\n• Mixed\n\nDESIGNED FOR HEAVY SLEEPERS\n• 16 alarm sounds from gentle chimes to a proper siren\n• Rings over silent mode and Do Not Disturb\n• Killing the app does not stop the alarm\n• Volume is raised automatically while the alarm rings\n\nPRIVATE BY DESIGN\nWalkUp works completely offline. No account, no ads, no analytics. Your alarms and step counts never leave your device.\n\nWalkUp supports 9 languages and follows your phone's language automatically.",
+    "promotionalText": null,
+    "supportUrl": "https://regaipsefacotur.github.io/apps-privacy/destek/",
+    "whatsNew": null
+   },
+   "ar-SA": {
+    "description": "WalkUp هو المنبّه الذي لا يمكنك تجاهله.\n\nلا زر تأجيل. لا سحب للإيقاف. يستمر المنبّه بالرنين حتى تثبت أنك مستيقظ — بالإجابة عن أسئلة بسيطة، وإن شئت بالنهوض من السرير والمشي فعلًا.\n\nكيف يعمل\n• يرن المنبّه حتى لو كان التطبيق مغلقًا والهاتف صامتًا\n• لإيقافه أجب عن أسئلة اختيار من متعدد بسيطة\n• اختياريًا: اشترط 10–30 خطوة بعد الأسئلة، يعدّها عدّاد خطوات هاتفك\n• إيقاف منبّه النظام يؤجله فقط: يعود خلال ثوانٍ حتى تُنهي المطلوب\n\nأنواع الأسئلة\n• حساب — عمليات بسيطة بلا لغة\n• ثقافة عامة — معلومات سهلة\n• رياضة — كرة القدم والسلة والأولمبياد\n• إسلامية — أسئلة دينية أساسية (اختياري)\n• مختلط\n\nمصمَّم لأصحاب النوم الثقيل\n• 16 صوتًا من الرنين الهادئ إلى صفارة حقيقية\n• يرن رغم الوضع الصامت وعدم الإزعاج\n• إغلاق التطبيق لا يوقف المنبّه\n• يرتفع مستوى الصوت تلقائيًا أثناء الرنين\n\nالخصوصية أولًا\nيعمل WalkUp دون اتصال تمامًا. لا حساب ولا إعلانات ولا تحليلات. منبّهاتك وخطواتك لا تغادر جهازك أبدًا.\n\nيدعم WalkUp تسع لغات ويتبع لغة هاتفك تلقائيًا.",
+    "promotionalText": null,
+    "supportUrl": "https://regaipsefacotur.github.io/apps-privacy/destek/",
+    "whatsNew": null
+   },
+   "fr-FR": {
+    "description": "WalkUp est le réveil que vous ne pouvez pas ignorer.\n\nPas de bouton snooze. Pas de balayage pour arrêter. Le réveil sonne jusqu'à ce que vous prouviez que vous êtes réveillé — en répondant à quelques questions simples et, si vous le souhaitez, en vous levant pour marcher vraiment.\n\nCOMMENT ÇA MARCHE\n• Le réveil sonne même app fermée et téléphone en silencieux\n• Pour l'arrêter, répondez à des questions simples à choix multiples\n• En option : 10 à 30 pas après les questions, comptés par le podomètre du téléphone\n• Arrêter l'alarme système ne fait que la reporter : elle revient en quelques secondes\n\nTYPES DE QUESTIONS\n• Maths — calculs simples, sans langue\n• Culture générale — faits faciles\n• Sport — football, basket, Jeux olympiques\n• Islamiques — questions religieuses de base (en option)\n• Mixte\n\nCONÇU POUR LES GROS DORMEURS\n• 16 sonneries, du carillon doux à la vraie sirène\n• Sonne malgré le mode silencieux et Ne pas déranger\n• Fermer l'app n'arrête pas le réveil\n• Le volume monte automatiquement pendant la sonnerie\n\nPRIVÉ PAR CONCEPTION\nWalkUp fonctionne entièrement hors ligne. Pas de compte, pas de pub, pas d'analyse. Vos réveils et vos pas ne quittent jamais votre appareil.\n\nWalkUp existe en 9 langues et suit automatiquement la langue du téléphone.",
+    "promotionalText": null,
+    "supportUrl": "https://regaipsefacotur.github.io/apps-privacy/destek/",
+    "whatsNew": null
+   },
+   "pt-BR": {
+    "description": "WalkUp é o alarme que você não consegue ignorar.\n\nSem botão de soneca. Sem deslizar para desligar. O alarme toca até você provar que está acordado — respondendo algumas perguntas simples e, se quiser, levantando da cama e caminhando de verdade.\n\nCOMO FUNCIONA\n• O alarme toca mesmo com o app fechado e o telefone no silencioso\n• Para desligar, responda perguntas simples de múltipla escolha\n• Opcional: exigir 10–30 passos após as perguntas, contados pelo pedômetro do telefone\n• Parar o alarme do sistema só o adia: ele volta em segundos até você terminar\n\nTIPOS DE PERGUNTAS\n• Matemática — contas simples, sem idioma\n• Conhecimentos gerais — fatos fáceis\n• Esportes — futebol, basquete, Olimpíadas\n• Islâmicas — perguntas religiosas básicas (opcional)\n• Misto\n\nFEITO PARA QUEM TEM SONO PESADO\n• 16 sons, do carrilhão suave à sirene de verdade\n• Toca sobre o modo silencioso e o Não Perturbe\n• Fechar o app não para o alarme\n• O volume sobe automaticamente enquanto toca\n\nPRIVADO POR PADRÃO\nWalkUp funciona totalmente offline. Sem conta, sem anúncios, sem análises. Seus alarmes e passos nunca saem do seu aparelho.\n\nWalkUp tem 9 idiomas e segue automaticamente o idioma do telefone.",
+    "promotionalText": null,
+    "supportUrl": "https://regaipsefacotur.github.io/apps-privacy/destek/",
+    "whatsNew": null
+   },
+   "ru": {
+    "description": "WalkUp — будильник, который нельзя проигнорировать.\n\nБез кнопки «отложить». Без свайпа для выключения. Будильник звонит, пока вы не докажете, что проснулись: ответите на несколько простых вопросов, а если захотите — встанете с кровати и действительно пройдётесь.\n\nКАК ЭТО РАБОТАЕТ\n• Будильник звонит даже при закрытом приложении и беззвучном режиме\n• Чтобы выключить, ответьте на простые вопросы с вариантами ответов\n• По желанию — 10–30 шагов после вопросов, шаги считает встроенный шагомер\n• Остановка системного будильника лишь откладывает его: он вернётся через секунды\n\nТИПЫ ВОПРОСОВ\n• Математика — простые примеры, язык не нужен\n• Эрудиция — простые факты о мире\n• Спорт — футбол, баскетбол, Олимпиада\n• Исламские — базовые религиозные вопросы (по желанию)\n• Смешанные\n\nДЛЯ ТЕХ, КТО КРЕПКО СПИТ\n• 16 звуков — от мягкого перезвона до настоящей сирены\n• Звонит поверх беззвучного режима и «Не беспокоить»\n• Закрытие приложения не останавливает будильник\n• Громкость автоматически повышается во время звонка\n\nПРИВАТНОСТЬ ПО УМОЛЧАНИЮ\nWalkUp работает полностью офлайн. Без аккаунта, рекламы и аналитики. Ваши будильники и шаги не покидают устройство.\n\nWalkUp поддерживает 9 языков и автоматически использует язык телефона.",
+    "promotionalText": null,
+    "supportUrl": "https://regaipsefacotur.github.io/apps-privacy/destek/",
+    "whatsNew": null
+   }
+  }
+ },
+ "6835023402": {
+  "versions": [
+   [
+    "e9bfb669-076f-4ffd-be29-c8a0c0d4f120",
+    "1.0",
+    "READY_FOR_SALE"
+   ]
+  ],
+  "loc": {
+   "id": {
+    "description": "Detoks Digital mengunci aplikasi yang mengganggu sampai kamu meraihnya.\n\nInstagram, TikTok, YouTube atau game… Pilih yang dikunci dan tetapkan syarat baik untuk membukanya:\n\n• Habiskan waktu di aplikasi lain: 20 mnt di Duolingo, 30 mnt di Kindle\n• Bergerak: 3.000 langkah, 20 mnt olahraga (Apple Health)\n• Fokus tanpa ponsel: bekerja 25 mnt tanpa menyentuhnya\n• Jernihkan pikiran: bernapas, jawab beberapa soal, tunggu 20 dtk\n• Menulis: niatmu atau 3 hal yang kamu syukuri\n• Spiritual: berzikir, kunci saat waktu salat\n\nSatu syarat atau semuanya. Kunci sepanjang hari, pada jam tertentu, atau \"hanya terbuka satu jam di malam hari\"; hari kerja dan akhir pekan bisa berbeda.\n\nPenuhi satu syarat setiap hari dan tumbuhkan rentetanmu.\n\nPrivasi nomor satu: tanpa akun, iklan, atau server. Durasi Layar Apple yang mengunci; aplikasi ini bahkan tidak tahu aplikasi apa yang kamu pakai.\n\nSepenuhnya gratis.",
+    "promotionalText": "Lakukan yang baik dulu, baru menggulir. 20 mnt Duolingo, 3.000 langkah atau 25 mnt fokus tanpa ponsel; selesai, kunci terbuka sendiri.",
+    "supportUrl": "https://regaipsefacotur.github.io/apps-privacy/destek/",
+    "whatsNew": null
+   },
+   "ko": {
+    "description": "디지털 디톡스는 방해되는 앱을 당신이 얻어낼 때까지 잠가요.\n\nInstagram, TikTok, YouTube, 게임… 잠글 것을 고르고 여는 조건을 정하세요.\n\n• 다른 앱에서 시간 보내기: Duolingo 20분, Kindle 30분\n• 움직이기: 3,000걸음, 운동 20분 (Apple 건강)\n• 폰 없이 집중: 만지지 않고 25분 일하기\n• 머리 비우기: 호흡, 계산 문제, 20초 기다리기\n• 쓰기: 다짐이나 감사한 일 3가지\n\n조건은 하나만 또는 전부. 하루 종일, 특정 시간, ‘저녁 한 시간만 열림’ 등으로 잠글 수 있고 평일과 주말을 따로 정할 수 있어요.\n\n매일 조건을 달성해 연속 기록을 키우세요.\n\n개인정보 우선: 계정, 광고, 서버 없음. 잠금은 Apple 스크린 타임이 걸고, 어떤 앱을 쓰는지도 보지 않아요.\n\n완전히 무료.",
+    "promotionalText": "좋은 일 먼저, 스크롤은 그다음. Duolingo 20분, 3,000걸음, 폰 없이 집중 25분. 해내면 잠금이 저절로 풀려요.",
+    "supportUrl": "https://regaipsefacotur.github.io/apps-privacy/destek/",
+    "whatsNew": null
+   },
+   "ja": {
+    "description": "デジタルデトックスは、気が散るアプリを「達成」するまでロックします。\n\nInstagram、TikTok、YouTube、ゲーム…ロックするものを選び、開くための良い条件を決めましょう。\n\n• 別のアプリで過ごす：Duolingoで20分、Kindleで30分\n• 体を動かす：3,000歩、20分の運動（Appleヘルスケア）\n• スマホなしで集中：触らずに25分作業\n• 頭をすっきり：呼吸、計算問題、20秒待つ\n• 書く：意図や感謝していること3つ\n\n条件は1つでも、すべてでもOK。終日、特定の時間帯、「夜の1時間だけ開く」などのロックができ、平日と週末も分けられます。\n\n毎日条件を達成して連続記録を伸ばしましょう。\n\nプライバシー第一：アカウントも広告もサーバーもなし。ロックはAppleのスクリーンタイムが行い、どのアプリを使っているかも見えません。\n\n完全無料。",
+    "promotionalText": "まず良いことを、それからスクロール。Duolingo 20分、3,000歩、スマホなし集中25分。達成すれば自動でロック解除。",
+    "supportUrl": "https://regaipsefacotur.github.io/apps-privacy/destek/",
+    "whatsNew": null
+   },
+   "zh-Hans": {
+    "description": "数字排毒会锁定让你分心的 App，直到你“争取”到它们。\n\nInstagram、TikTok、YouTube 或游戏…选择要锁定的内容，并设置一个打开的好条件：\n\n• 在另一个 App 中花时间：Duolingo 20 分钟、Kindle 30 分钟\n• 动起来：3,000 步、运动 20 分钟（Apple 健康）\n• 无手机专注：25 分钟不碰手机地工作\n• 清理思绪：呼吸、做几道题、等待 20 秒\n• 写作：写下意图或 3 件感恩的事\n\n可以只要一个条件，也可以要求全部。可全天锁定、在特定时段锁定，或“仅晚上开放一小时”；工作日和周末可分开设置。\n\n每天完成一个条件，让连续记录不断增长。\n\n隐私优先：无账户、无广告、无服务器。锁定由 Apple 屏幕使用时间完成，App 甚至看不到你使用哪些应用。\n\n完全免费。",
+    "promotionalText": "先做好事，再刷屏。Duolingo 20 分钟、3,000 步或无手机专注 25 分钟；完成后锁定自动解除。",
+    "supportUrl": "https://regaipsefacotur.github.io/apps-privacy/destek/",
+    "whatsNew": null
+   },
+   "ru": {
+    "description": "Цифровой детокс блокирует отвлекающие приложения, пока ты их не заслужишь.\n\nInstagram, TikTok, YouTube или игры… Выбери, что заблокировать, и задай полезное условие для открытия:\n\n• Время в другом приложении: 20 мин в Duolingo, 30 мин в Kindle\n• Движение: 3000 шагов, 20 мин тренировки (Apple Здоровье)\n• Фокус без телефона: 25 мин работы, не касаясь его\n• Ясная голова: подыши, реши пару примеров, подожди 20 с\n• Письмо: намерение или 3 вещи, за которые благодарен\n\nОдно условие или все сразу. Блокировка на весь день, в определённые часы или «открыто только час вечером»; будни и выходные отдельно.\n\nВыполняй условие каждый день и расти свою серию.\n\nКонфиденциальность прежде всего: без аккаунта, рекламы и сервера. Блокирует «Экранное время» Apple; приложение даже не видит, чем ты пользуешься.\n\nПолностью бесплатно.",
+    "promotionalText": "Сначала полезное, потом лента. 20 мин Duolingo, 3000 шагов или 25 мин без телефона — выполнил, и блокировка снимется сама.",
+    "supportUrl": "https://regaipsefacotur.github.io/apps-privacy/destek/",
+    "whatsNew": null
+   },
+   "en-US": {
+    "description": "Digital Detox locks the apps that distract you until you've earned them.\n\nInstagram, TikTok, YouTube or games… Choose what to lock and set a good condition to open it:\n\n• Spend time in another app: 20 min on Duolingo, 30 min on Kindle\n• Get moving: 3,000 steps, 20 min of exercise (Apple Health)\n• Focus without your phone: work 25 min without touching it\n• Clear your mind: breathe, solve a few questions, wait 20 s and think\n• Write: your intention or 3 things you're grateful for\n• Spiritual: dhikr, lock during prayer times\n\nAsk for one condition or all of them. Locks can run all day, at certain hours, or \"open only one evening hour\"; weekdays and weekends can differ.\n\nComplete a condition every day and grow your streak. Earn badges and see how often you resisted.\n\nPrivacy first: no account, no ads, no server. Apple's Screen Time sets the locks; Digital Detox can't even see which apps you use. All your data stays on your device.\n\nCompletely free.",
+    "promotionalText": "Do the good thing first, then scroll. 20 min of Duolingo, 3,000 steps or 25 min of phone-free focus; complete it and the lock opens by itself.",
+    "supportUrl": "https://regaipsefacotur.github.io/apps-privacy/destek/",
+    "whatsNew": null
+   },
+   "pt-BR": {
+    "description": "O Detox Digital bloqueia os apps que te distraem até você merecê-los.\n\nInstagram, TikTok, YouTube ou jogos… Escolha o que bloquear e defina uma boa condição para abrir:\n\n• Passe tempo em outro app: 20 min no Duolingo, 30 min no Kindle\n• Mexa-se: 3.000 passos, 20 min de exercício (Apple Saúde)\n• Foque sem celular: trabalhe 25 min sem tocar nele\n• Clareie a mente: respire, resolva algumas contas, espere 20 s\n• Escreva: sua intenção ou 3 coisas pelas quais é grato\n\nUma condição ou todas. Bloqueio o dia todo, em certos horários ou \"aberto só uma hora à noite\"; dias úteis e fins de semana separados.\n\nCumpra uma condição por dia e aumente sua sequência.\n\nPrivacidade em primeiro lugar: sem conta, sem anúncios, sem servidor. O Tempo de Uso da Apple faz o bloqueio; o Detox Digital nem vê quais apps você usa.\n\nTotalmente grátis.",
+    "promotionalText": "Primeiro o que é bom, depois a rolagem. 20 min de Duolingo, 3.000 passos ou 25 min sem celular; cumpriu, o bloqueio abre sozinho.",
+    "supportUrl": "https://regaipsefacotur.github.io/apps-privacy/destek/",
+    "whatsNew": null
+   },
+   "fr-FR": {
+    "description": "Digital Detox verrouille les apps qui te distraient jusqu'à ce que tu les aies méritées.\n\nInstagram, TikTok, YouTube ou les jeux… Choisis quoi verrouiller et fixe une bonne condition pour l'ouvrir :\n\n• Passer du temps dans une autre app : 20 min sur Duolingo, 30 min sur Kindle\n• Bouger : 3 000 pas, 20 min d'exercice (Apple Santé)\n• Te concentrer sans téléphone : 25 min sans y toucher\n• Te vider l'esprit : respirer, résoudre quelques calculs, attendre 20 s\n• Écrire : ton intention ou 3 choses pour lesquelles tu es reconnaissant\n\nUne condition ou toutes. Verrou toute la journée, à certaines heures ou « ouvert seulement une heure le soir » ; semaine et week-end différents.\n\nRemplis une condition chaque jour et fais grandir ta série.\n\nConfidentialité d'abord : pas de compte, pas de pub, pas de serveur. Temps d'écran d'Apple pose les verrous ; Digital Detox ne voit même pas quelles apps tu utilises.\n\nEntièrement gratuit.",
+    "promotionalText": "D'abord le bon, ensuite le scroll. 20 min de Duolingo, 3 000 pas ou 25 min sans téléphone ; une fois fait, le verrou s'ouvre tout seul.",
+    "supportUrl": "https://regaipsefacotur.github.io/apps-privacy/destek/",
+    "whatsNew": null
+   },
+   "ar-SA": {
+    "description": "يقفل ديتوكس رقمي التطبيقات المشتّتة حتى تستحقها.\n\nإنستغرام، تيك توك، يوتيوب أو الألعاب… اختر ما تقفله وضع شرطًا جيدًا لفتحه:\n\n• اقضِ وقتًا في تطبيق آخر: 20 دقيقة في Duolingo أو 30 دقيقة في Kindle\n• تحرّك: 3,000 خطوة أو 20 دقيقة تمرين (Apple Health)\n• ركّز بلا هاتف: اعمل 25 دقيقة دون لمسه\n• صفِّ ذهنك: تنفّس، حلّ بعض المسائل، انتظر 20 ثانية\n• اكتب: نيتك أو 3 أشياء تشكر الله عليها\n• روحانيًا: اذكر الله، واقفل وقت الصلاة\n\nشرط واحد أو كلها. القفل طوال اليوم أو في ساعات معينة أو «مفتوح ساعة واحدة مساءً»، ويمكن فصل أيام الأسبوع عن العطلة.\n\nحقّق شرطًا كل يوم ونمِّ سلسلتك.\n\nالخصوصية أولًا: بلا حساب ولا إعلانات ولا خوادم. تضع «مدة استخدام الجهاز» من Apple الأقفال، ولا يرى التطبيق حتى ما تستخدمه.\n\nمجاني بالكامل.",
+    "promotionalText": "افعل الخير أولًا ثم تصفّح. 20 دقيقة Duolingo أو 3,000 خطوة أو 25 دقيقة تركيز بلا هاتف؛ أنجزه وسيُفتح القفل تلقائيًا.",
+    "supportUrl": "https://regaipsefacotur.github.io/apps-privacy/destek/",
+    "whatsNew": null
+   },
+   "de-DE": {
+    "description": "Digital Detox sperrt ablenkende Apps, bis du sie dir verdient hast.\n\nInstagram, TikTok, YouTube oder Spiele… Wähl, was gesperrt wird, und setz eine gute Bedingung zum Öffnen:\n\n• Zeit in einer anderen App: 20 Min. Duolingo, 30 Min. Kindle\n• Beweg dich: 3.000 Schritte, 20 Min. Training (Apple Health)\n• Fokus ohne Handy: 25 Min. arbeiten, ohne es zu berühren\n• Kopf frei: atmen, ein paar Aufgaben lösen, 20 s innehalten\n• Schreiben: deine Absicht oder 3 Dinge, für die du dankbar bist\n\nEine Bedingung oder alle. Sperren gelten den ganzen Tag, zu bestimmten Zeiten oder „nur eine Stunde am Abend offen“; werktags und am Wochenende unterschiedlich.\n\nErfülle jeden Tag eine Bedingung und lass deine Serie wachsen.\n\nDatenschutz zuerst: kein Konto, keine Werbung, kein Server. Die Sperren setzt Apples Bildschirmzeit; Digital Detox sieht nicht, welche Apps du nutzt.\n\nKomplett kostenlos.",
+    "promotionalText": "Erst das Gute, dann scrollen. 20 Min. Duolingo, 3.000 Schritte oder 25 Min. Fokus ohne Handy; erfüllt, öffnet sich die Sperre von selbst.",
+    "supportUrl": "https://regaipsefacotur.github.io/apps-privacy/destek/",
+    "whatsNew": null
+   },
+   "it": {
+    "description": "Detox Digitale blocca le app che ti distraggono finché non te le sei meritate.\n\nInstagram, TikTok, YouTube o giochi… Scegli cosa bloccare e imposta una buona condizione per aprirlo:\n\n• Passa tempo in un'altra app: 20 min su Duolingo, 30 min su Kindle\n• Muoviti: 3.000 passi, 20 min di esercizio (Apple Salute)\n• Concentrati senza telefono: lavora 25 min senza toccarlo\n• Libera la mente: respira, risolvi qualche calcolo, aspetta 20 s\n• Scrivi: la tua intenzione o 3 cose per cui sei grato\n\nUna condizione o tutte. Blocco tutto il giorno, in certi orari o «aperto solo un'ora la sera»; feriali e weekend separati.\n\nCompleta una condizione ogni giorno e fai crescere la tua serie.\n\nPrima la privacy: niente account, pubblicità o server. I blocchi li mette Tempo di utilizzo di Apple; Detox Digitale non vede nemmeno quali app usi.\n\nCompletamente gratuita.",
+    "promotionalText": "Prima la cosa buona, poi lo scroll. 20 min di Duolingo, 3.000 passi o 25 min senza telefono; fatto questo, il blocco si apre da solo.",
+    "supportUrl": "https://regaipsefacotur.github.io/apps-privacy/destek/",
+    "whatsNew": null
+   },
+   "tr": {
+    "description": "Dijital Detoks, dikkatini dağıtan uygulamaları sen bir şeyi hak edene kadar kilitler.\n\nInstagram, TikTok, YouTube ya da oyunlar… Kilitlemek istediklerini seç, açılması için iyi bir koşul koy:\n\n• Başka bir uygulamada vakit geçir: Duolingo'da 20 dk, Kindle'da 30 dk\n• Hareket et: 3.000 adım, 20 dk egzersiz (Apple Sağlık)\n• Telefonsuz odaklan: 25 dk dokunmadan çalış\n• Zihnini toparla: nefes al, birkaç soru çöz, 20 sn bekle ve düşün\n• Yaz: niyetini ya da şükrettiğin 3 şeyi\n• Manevi: zikir çek, namaz vaktinde kilitle\n\nKoşullar tek tek ya da hep birlikte istenebilir. Kilit; tüm gün, belirli saatlerde ya da \"yalnızca akşam bir saat açık\" gibi çalışabilir; hafta içi ve hafta sonu ayrı ayarlanır.\n\nHer gün bir koşulu yerine getir, serin büyüsün. Rozetler kazan, ne kadar vazgeçtiğini gör.\n\nGizlilik önce gelir: hesap yok, reklam yok, sunucu yok. Kilitleri Apple'ın Ekran Süresi koyar; Dijital Detoks hangi uygulamaları kullandığını bile göremez. Tüm verilerin cihazında kalır.\n\nTamamen ücretsiz.",
+    "promotionalText": "Önce iyi olanı yap, sonra kaydır. 20 dk Duolingo, 3.000 adım ya da 25 dk telefonsuz odak; koşulu yerine getirince kilit kendiliğinden açılır.",
+    "supportUrl": "https://regaipsefacotur.github.io/apps-privacy/destek/",
+    "whatsNew": null
+   },
+   "es-ES": {
+    "description": "Detox Digital bloquea las apps que te distraen hasta que te las ganes.\n\nInstagram, TikTok, YouTube o juegos… Elige qué bloquear y pon una buena condición para abrirlo:\n\n• Pasar tiempo en otra app: 20 min en Duolingo, 30 min en Kindle\n• Muévete: 3.000 pasos, 20 min de ejercicio (Apple Salud)\n• Concéntrate sin móvil: trabaja 25 min sin tocarlo\n• Despeja la mente: respira, resuelve unas operaciones, espera 20 s\n• Escribe: tu intención o 3 cosas por las que estás agradecido\n\nUna condición o todas. Bloqueo todo el día, a ciertas horas o «abierto solo una hora por la noche»; entre semana y fines de semana por separado.\n\nCumple una condición cada día y haz crecer tu racha.\n\nPrivacidad primero: sin cuenta, sin anuncios, sin servidor. Tiempo de uso de Apple pone los bloqueos; Detox Digital ni siquiera ve qué apps usas.\n\nTotalmente gratis.",
+    "promotionalText": "Primero lo bueno, luego el scroll. 20 min de Duolingo, 3.000 pasos o 25 min sin móvil; al cumplirlo, el bloqueo se abre solo.",
+    "supportUrl": "https://regaipsefacotur.github.io/apps-privacy/destek/",
+    "whatsNew": null
+   }
+  }
+ }
+}
